@@ -2,7 +2,7 @@
 
 List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contributions welcome!
 
-✨ Now also available [in CSV](https://github.com/jnv/lists/blob/gh-pages/lists.csv) ⭐ 11,438 | 🐛 22 | 📅 2026-03-23! ✨
+✨ Now also available [in CSV](https://github.com/jnv/lists/blob/gh-pages/lists.csv) ⭐ 11,439 | 🐛 22 | 📅 2026-03-23! ✨
 
 * [Lists](#lists)
   * [Non-technical](#non-technical)
@@ -20,12 +20,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
-* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 53,230 | 🐛 137 | 🌐 JavaScript | 📅 2026-06-17 *In Chinese* – The most comprehensive database of Chinese poetry
+* [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 53,236 | 🐛 137 | 🌐 JavaScript | 📅 2026-06-17 *In Chinese* – The most comprehensive database of Chinese poetry
   * <http://shici.store>
-* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14,453 | 🐛 72 | 🌐 Ruby | 📅 2026-02-11 – Stock photography, video and illustration websites.
-* [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,181 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09 – :books: Books that will blow your mind
+* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14,454 | 🐛 72 | 🌐 Ruby | 📅 2026-02-11 – Stock photography, video and illustration websites.
+* [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,183 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09 – :books: Books that will blow your mind
   * <http://books.vishnuks.com>
-* [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,018 | 🐛 0 | 📅 2025-12-22 – Sci-Fi worth consuming.
+* [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) ⭐ 5,020 | 🐛 0 | 📅 2025-12-22 – Sci-Fi worth consuming.
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) ⭐ 3,634 | 🐛 46 | 🌐 HTML | 📅 2025-05-02 – Articles, websites and resources about mental health in the software industry.
   * <https://dreamingechoes.github.io/awesome-mental-health>
 * [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,543 | 🐛 77 | 📅 2026-08-23 – Worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.
@@ -110,72 +110,72 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Technical
 
-* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,626 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 – Build your own (insert technology here)
-* [public-apis](https://github.com/public-apis/public-apis) ⭐ 469,842 | 🐛 1,763 | 🌐 Python | 📅 2026-08-19 – JSON APIs for use in web development.
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,543 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-24 – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
+* [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,721 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 – Build your own (insert technology here)
+* [public-apis](https://github.com/public-apis/public-apis) ⭐ 469,999 | 🐛 1,765 | 🌐 Python | 📅 2026-08-19 – JSON APIs for use in web development.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,558 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-24 – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
   * <https://www.freecodecamp.org/>
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,156 | 🐛 86 | 🌐 Python | 📅 2026-08-18
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,170 | 🐛 87 | 🌐 Python | 📅 2026-08-18
   * <http://resrc.io/list/10/list-of-free-programming-books/>
-* [project-based-learning](https://github.com/tuvtran/project-based-learning) ⭐ 280,651 | 🐛 270 | 🌐 Python | 📅 2026-08-24 – Programming tutorials to build an application from scratch.
-* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,155 | 🐛 169 | 📅 2024-11-19 – Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [computer-science](https://github.com/ossu/computer-science) ⭐ 208,393 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 – Path to a free self-taught graduation in Computer Science.
-* [iptv](https://github.com/iptv-org/iptv) ⭐ 136,629 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-24 – 5000+ publicly available IPTV channels from all over the world.
-* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 135,039 | 🐛 12 | 🌐 HTML | 📅 2026-08-24 – Software, SaaS, PaaS etc offerings that have free tiers for devs.
+* [project-based-learning](https://github.com/tuvtran/project-based-learning) ⭐ 280,697 | 🐛 270 | 🌐 Python | 📅 2026-08-24 – Programming tutorials to build an application from scratch.
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,215 | 🐛 169 | 📅 2024-11-19 – Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [computer-science](https://github.com/ossu/computer-science) ⭐ 208,401 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 – Path to a free self-taught graduation in Computer Science.
+* [iptv](https://github.com/iptv-org/iptv) ⭐ 136,647 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-25 – 5000+ publicly available IPTV channels from all over the world.
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 135,103 | 🐛 12 | 🌐 HTML | 📅 2026-08-24 – Software, SaaS, PaaS etc offerings that have free tiers for devs.
   * <https://free-for.dev/>
-* [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) ⭐ 128,813 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 – JavaScript snippets you can understand in 30 seconds or less.
+* [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) ⭐ 128,812 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 – JavaScript snippets you can understand in 30 seconds or less.
   * <https://30secondsofcode.org/>
-* [free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 118,504 | 🐛 3 | 📅 2026-07-29 *In Chinese*
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,969 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 – Papers from the computer science community to read and discuss. (Contains actual papers)
-* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,311 | 🐛 26 | 📅 2025-12-29 – (Mostly) technical things every software developer should know.
-* [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 97,057 | 🐛 606 | 📅 2025-10-11 – Application ideas which can be used to improve your coding skills.
+* [free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 118,508 | 🐛 3 | 📅 2026-07-29 *In Chinese*
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 108,977 | 🐛 3 | 🌐 Shell | 📅 2026-08-24 – Papers from the computer science community to read and discuss. (Contains actual papers)
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,319 | 🐛 26 | 📅 2025-12-29 – (Mostly) technical things every software developer should know.
+* [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 97,069 | 🐛 606 | 📅 2025-10-11 – Application ideas which can be used to improve your coding skills.
 * [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,173 | 🐛 3 | 📅 2026-07-07 – Computer Science courses with video lectures.
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,335 | 🐛 35 | 🌐 Python | 📅 2026-08-09 – Useful payloads and bypasses for Web Application Security and Pentest/CTF
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,342 | 🐛 36 | 🌐 Python | 📅 2026-08-09 – Useful payloads and bypasses for Web Application Security and Pentest/CTF
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⚠️ Archived – Some useful websites for programmers.
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,046 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 – Lists used during security assessments: usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.
-* [interviews](https://github.com/kdn251/interviews) ⭐ 65,227 | 🐛 121 | 🌐 Java | 📅 2025-05-12 – Your personal guide to Software Engineering technical interviews.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,050 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 – Lists used during security assessments: usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, etc.
+* [interviews](https://github.com/kdn251/interviews) ⭐ 65,225 | 🐛 121 | 🌐 Java | 📅 2025-05-12 – Your personal guide to Software Engineering technical interviews.
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐ 60,871 | 🐛 63 | 🌐 Nunjucks | 📅 2026-06-16 – Helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
   * Available in [various translations](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations) ⭐ 60,871 | 🐛 63 | 🌐 Nunjucks | 📅 2026-06-16
-* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,841 | 🐛 63 | 📅 2024-04-11 *In Chinese* – 后端架构师技术图谱
-* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,698 | 🐛 48 | 📅 2024-04-15 – Cool features of Git and GitHub.
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,833 | 🐛 3 | 📅 2026-08-24 – Open-source iOS apps.
-* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 51,528 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24 – Companies that don't have a broken hiring process.
-* [professional-programming](https://github.com/charlax/professional-programming) ⭐ 51,444 | 🐛 6 | 🌐 Python | 📅 2026-07-15 – Learning resources for curious software engineers.
-* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,152 | 🐛 235 | 📅 2026-08-22 – macOS open source applications.
-* [Projects](https://github.com/karan/Projects) ⭐ 47,887 | 🐛 123 | 📅 2024-08-14 – Practical projects that anyone can solve in any programming language.
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,842 | 🐛 63 | 📅 2024-04-11 *In Chinese* – 后端架构师技术图谱
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,703 | 🐛 48 | 📅 2024-04-15 – Cool features of Git and GitHub.
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,842 | 🐛 3 | 📅 2026-08-24 – Open-source iOS apps.
+* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 51,560 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-24 – Companies that don't have a broken hiring process.
+* [professional-programming](https://github.com/charlax/professional-programming) ⭐ 51,447 | 🐛 6 | 🌐 Python | 📅 2026-07-15 – Learning resources for curious software engineers.
+* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,159 | 🐛 236 | 📅 2026-08-22 – macOS open source applications.
+* [Projects](https://github.com/karan/Projects) ⭐ 47,890 | 🐛 123 | 📅 2024-08-14 – Practical projects that anyone can solve in any programming language.
 * [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,710 | 🐛 108 | 🌐 Python | 📅 2024-04-18 – Strings which have a high probability of causing issues when used as user-input data.
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,422 | 🐛 133 | 📅 2024-05-21 – Frontend development resources I collected over time.
-* [remote-jobs](https://github.com/remoteintech/remote-jobs) ⭐ 40,749 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-11 – Semi to fully remote-friendly companies in tech.
-* [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,544 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21
+* [remote-jobs](https://github.com/remoteintech/remote-jobs) ⭐ 40,748 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-11 – Semi to fully remote-friendly companies in tech.
+* [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,545 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21
 * [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) ⭐ 36,625 | 🐛 38 | 📅 2024-08-06 – Open-source clones of popular sites.
 * [android-open-project](https://github.com/Trinea/android-open-project) ⭐ 31,817 | 🐛 31 | 📅 2026-03-25 *In Chinese* – Collect and classify android open source projects.
-* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,259 | 🐛 2 | 📅 2025-03-20 – Take your CSS skills pro
-* [applied-ml](https://github.com/eugeneyan/applied-ml) ⭐ 30,080 | 🐛 8 | 📅 2024-07-18 – Data science & machine learning in production.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,259 | 🐛 1 | 📅 2026-08-24 – Take your CSS skills pro
+* [applied-ml](https://github.com/eugeneyan/applied-ml) ⭐ 30,079 | 🐛 8 | 📅 2024-07-18 – Data science & machine learning in production.
 * [reverse-interview](https://github.com/viraptor/reverse-interview) ⭐ 28,582 | 🐛 23 | 📅 2025-02-19 – Questions to ask the company during your interview
 * [go-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,196 | 🐛 66 | 🌐 Go | 📅 2024-05-14 – Go design patterns, recipes and idioms
   * <http://tmrts.com/go-patterns>
-* [hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,265 | 🐛 152 | 🌐 HTML | 📅 2026-05-19 – Laws, Theories, Principles and Patterns that developers will find useful.
+* [hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,267 | 🐛 152 | 🌐 HTML | 📅 2026-05-19 – Laws, Theories, Principles and Patterns that developers will find useful.
 * [datasciencemasters](https://github.com/datasciencemasters/go) ⭐ 26,265 | 🐛 42 | 📅 2023-12-03 – The Curriculum for learning Data Science, Open Source and at your fingertips.
   * <http://datasciencemasters.org/>
 * [games](https://github.com/leereilly/games) ⚠️ Archived – Popular/awesome videos games, add-on, maps, etc. hosted on GitHub.
-* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,176 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 – 100+ tips for protecting digital security and privacy
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,177 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 – 100+ tips for protecting digital security and privacy
 * [tips](https://github.com/git-tips/tips) ⭐ 21,723 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 – Most commonly used git tips and tricks.
   * <http://git.io/git-tips>
 * [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) ⭐ 19,956 | 🐛 51 | 🌐 C | 📅 2024-07-19 – [HarmonyOS](https://www.harmonyos.com/en/) by Huawei
-* [GoBooks](https://github.com/dariubs/GoBooks) ⭐ 19,634 | 🐛 0 | 🌐 Go | 📅 2026-07-13 – Golang books.
-* [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) ⭐ 18,747 | 🐛 4 | 📅 2026-07-25 – macOS Quick Look plugins for developers
-* [learn-python](https://github.com/trekhleb/learn-python) ⭐ 18,220 | 🐛 43 | 🌐 Python | 📅 2026-04-06 by @trekhleb – Python scripts that are split by topics and contain code examples with explanations.
+* [GoBooks](https://github.com/dariubs/GoBooks) ⭐ 19,633 | 🐛 0 | 🌐 Go | 📅 2026-07-13 – Golang books.
+* [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) ⭐ 18,749 | 🐛 4 | 📅 2026-07-25 – macOS Quick Look plugins for developers
+* [learn-python](https://github.com/trekhleb/learn-python) ⭐ 18,222 | 🐛 43 | 🌐 Python | 📅 2026-04-06 by @trekhleb – Python scripts that are split by topics and contain code examples with explanations.
 * [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,144 | 🐛 47 | 📅 2024-06-12 – Machine Learning and Deep Learning Tutorials
-* [vim-galore](https://github.com/mhinz/vim-galore) ⭐ 17,960 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22 – All things Vim!
+* [vim-galore](https://github.com/mhinz/vim-galore) ⭐ 17,959 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22 – All things Vim!
 * [fks](https://github.com/JacksonTian/fks) ⭐ 17,927 | 🐛 15 | 🌐 JavaScript | 📅 2023-12-08 *In Chinese* – Frontend Knowledge Structure.
 * [Best-App](https://github.com/hzlzh/Best-App) ⭐ 17,535 | 🐛 258 | 📅 2026-03-17 *In Chinese* – Recommendations for best desktop and mobile apps.
-* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,192 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 – Game Development resources to make magic happen.
+* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,194 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 – Game Development resources to make magic happen.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐ 17,152 | 🐛 18 | 📅 2026-05-16 – Tools of The Trade, from Hacker News.
-* [public-api-lists](https://github.com/public-api-lists/public-api-lists) ⭐ 15,604 | 🐛 42 | 📅 2026-08-01 – Free APIs for use in software and web development (fork of [public-apis](https://github.com/public-apis/public-apis) ⭐ 469,842 | 🐛 1,763 | 🌐 Python | 📅 2026-08-19)
+* [public-api-lists](https://github.com/public-api-lists/public-api-lists) ⭐ 15,612 | 🐛 43 | 📅 2026-08-01 – Free APIs for use in software and web development (fork of [public-apis](https://github.com/public-apis/public-apis) ⭐ 469,999 | 🐛 1,765 | 🌐 Python | 📅 2026-08-19)
 * [Qix](https://github.com/ty4z2008/Qix) ⭐ 15,194 | 🐛 0 | 📅 2026-03-30 *In Chinese* – Node, Golang, Machine Learning, PostgreSQL.
 * [frontend-challenges](https://github.com/felipefialho/frontend-challenges) ⭐ 15,017 | 🐛 2 | 📅 2024-05-14 – Playful challenges for job applicants to test your knowledge.
-* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,746 | 🐛 27 | 🌐 Rust | 📅 2026-06-10 – Static analysis tools, linters and code quality checkers
+* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,747 | 🐛 27 | 🌐 Rust | 📅 2026-06-10 – Static analysis tools, linters and code quality checkers
 * [til](https://github.com/jbranchaud/til) ⭐ 14,141 | 🐛 23 | 🌐 Vim Script | 📅 2026-08-23 – Today I Learned.
-* [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) ⭐ 13,706 | 🐛 16 | 📅 2024-08-15 *In Chinese* – 程序员应该访问的最佳网站中文版
+* [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) ⭐ 13,707 | 🐛 16 | 📅 2024-08-15 *In Chinese* – 程序员应该访问的最佳网站中文版
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) ⭐ 13,609 | 🐛 0 | 📅 2022-01-20 – Must-watch videos about javascript.
 * [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) ⭐ 13,424 | 🐛 58 | 🌐 Markdown | 📅 2026-07-19 – Badges for GitHub profiles.
 * [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) ⚠️ Archived – Marketing articles & tools to grow your product.
@@ -185,23 +185,23 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [open-llms](https://github.com/eugeneyan/open-llms) ⭐ 12,854 | 🐛 10 | 📅 2025-02-13 – Open Large Language Models available for commercial use.
 * [jstips](https://github.com/loverajoel/jstips) ⭐ 12,432 | 🐛 9 | 📅 2025-04-26 – JavaScript tips
   * <http://jstips.co>
-* [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) ⭐ 12,391 | 🐛 3 | 📅 2026-08-04 – Services with great free tiers for developers on a budget
-* [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ⭐ 12,335 | 🐛 237 | 🌐 Markdown | 📅 2026-08-21 – Code documentation written as code!
+* [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) ⭐ 12,392 | 🐛 3 | 📅 2026-08-04 – Services with great free tiers for developers on a budget
+* [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) ⭐ 12,336 | 🐛 237 | 🌐 Markdown | 📅 2026-08-21 – Code documentation written as code!
   * <https://learnxinyminutes.com/>
-* [post-mortems](https://github.com/danluu/post-mortems) ⭐ 12,269 | 🐛 11 | 📅 2026-06-22
+* [post-mortems](https://github.com/danluu/post-mortems) ⭐ 12,270 | 🐛 11 | 📅 2026-06-22
 * [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) ⭐ 12,198 | 🐛 49 | 📅 2024-07-23 – Getting started with bug bounties.
 * [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) ⚠️ Archived – Common interview questions to help you prepare for your next interview.
 * [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) ⭐ 11,874 | 🐛 129 | 🌐 Shell | 📅 2024-08-01
   * <https://hackermovie.club/>
 * [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) ⚠️ Archived – Dive into Machine Learning with Python Jupyter notebook and scikit-learn
   * <http://hangtwenty.github.io/dive-into-machine-learning/>
-* [fmhy/edit](https://github.com/fmhy/edit) ⭐ 11,341 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-24 – The largest collection of free stuff on the internet.
+* [fmhy/edit](https://github.com/fmhy/edit) ⭐ 11,344 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-25 – The largest collection of free stuff on the internet.
   * <https://fmhy.net/>
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) ⚠️ Archived
 * [android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) ⭐ 10,592 | 🐛 11 | 📅 2021-02-05 *In Chinese* – Translation of articles about Android development.
-* [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) ⭐ 10,462 | 🐛 0 | 🌐 Python | 📅 2026-08-24 – Collection of Android Apps which are open source.
+* [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) ⭐ 10,462 | 🐛 0 | 🌐 Python | 📅 2026-08-25 – Collection of Android Apps which are open source.
 * [spark-joy](https://github.com/sw-yx/spark-joy) ⚠️ Archived – Add design flair, user delight, and whimsy to your product.
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,639 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,640 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 – “A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.”
 * [1on1-questions](https://github.com/VGraupera/1on1-questions) ⭐ 9,614 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-18 – 1 on 1 meeting questions.
 * [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) ⭐ 9,523 | 🐛 2 | 📅 2026-08-19 – Pointers to useful, well-written, and otherwise beautiful documentation.
 * [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,501 | 🐛 10 | 🌐 Shell | 📅 2026-07-07 – Open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
@@ -209,16 +209,16 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * <http://shichuan.github.io/javascript-patterns/>
 * [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,110 | 🐛 112 | 📅 2024-08-18 – Alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) ⭐ 8,952 | 🐛 18 | 📅 2024-06-26 – Framework/libraries/tools to use when building things on the web. Mostly Javascript stuff.
-* [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) ⭐ 8,659 | 🐛 2 | 🌐 C | 📅 2026-07-29 – Game Network Programming
+* [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) ⭐ 8,661 | 🐛 2 | 🌐 C | 📅 2026-07-29 – Game Network Programming
 * [degoogle](https://github.com/tycrek/degoogle) ⚠️ Archived – Alternatives to Google's products.
-* [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) ⭐ 8,056 | 🐛 6 | 📅 2026-08-21 *In Chinese* – SDK, development tools, libraries, and resources.
+* [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) ⭐ 8,057 | 🐛 6 | 📅 2026-08-21 *In Chinese* – SDK, development tools, libraries, and resources.
   * <http://www.androiddevtools.cn/>
-* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,032 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 – A curated guide for learning Haskell.
+* [learnhaskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,033 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20 – A curated guide for learning Haskell.
 * [easy-application](https://github.com/j-delaney/easy-application) ⚠️ Archived – Software engineering companies that are easy to apply to.
 * [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) ⭐ 7,876 | 🐛 3 | 🌐 Objective-C | 📅 2022-05-17 *In Chinese* – Delightful iOS resources.
 * [idiomatic-rust](https://github.com/mre/idiomatic-rust) ⭐ 7,849 | 🐛 1 | 🌐 Rust | 📅 2026-02-12 – Articles/talks/repos which teach concise, idiomatic Rust.
   * <http://idiomatic.rs>
-* [awful-ai](https://github.com/daviddao/awful-ai) ⭐ 7,553 | 🐛 24 | 📅 2025-02-20 – Current scary usages of AI, hoping to raise awareness to its misuses in society.
+* [awful-ai](https://github.com/daviddao/awful-ai) ⭐ 7,554 | 🐛 24 | 📅 2025-02-20 – Current scary usages of AI, hoping to raise awareness to its misuses in society.
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,434 | 🐛 2 | 📅 2026-03-04 – git and git flow cheat sheet
   * <http://bilalarslan.me/git-cheat-sheet/>
 * [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) ⭐ 7,431 | 🐛 19 | 🌐 Astro | 📅 2026-08-19 – Technical talks and articles about real world enterprise frontend development.
@@ -227,17 +227,17 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) ⭐ 7,138 | 🐛 2 | 📅 2025-12-05 – Must-watch videos about JavaScript.
 * [translations](https://github.com/oldratlee/translations) ⭐ 6,915 | 🐛 28 | 📅 2025-03-09 – Chinese translations for classic IT resources.
 * [InterviewThis](https://github.com/Twipped/InterviewThis) ⭐ 6,904 | 🐛 2 | 📅 2022-08-28 – Developer questions to ask prospective employers
-* [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 6,865 | 🐛 28 | 📅 2026-02-14 – “Where can I post my startup to get beta users?”
+* [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 6,866 | 🐛 28 | 📅 2026-02-14 – “Where can I post my startup to get beta users?”
 * [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) ⭐ 6,841 | 🐛 16 | 🌐 HTML | 📅 2024-04-23 *In Chinese*
-* [Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) ⭐ 6,777 | 🐛 4 | 📅 2026-07-26 – Data brokers and how to opt out from trading your personal information.
-* [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) ⭐ 6,680 | 🐛 19 | 📅 2025-10-12
+* [Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) ⭐ 6,778 | 🐛 4 | 📅 2026-07-26 – Data brokers and how to opt out from trading your personal information.
+* [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) ⭐ 6,680 | 🐛 20 | 📅 2025-10-12
 * [codeface](https://github.com/chrissimpkins/codeface) ⭐ 6,508 | 🐛 25 | 🌐 Python | 📅 2020-09-19 – Typefaces for source code / text editors.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs) ⭐ 6,340 | 🐛 13 | 🌐 Python | 📅 2024-06-05
 * [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) ⚠️ Archived – Public failure/horror stories related to Kubernetes
   * <https://k8s.af>
 * [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) ⭐ 6,026 | 🐛 21 | 📅 2025-10-31 – Templates & tips on writing high-quality documentation
 * [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,812 | 🐛 13 | 🌐 Python | 📅 2024-04-03 – Python tutorials for Data Science, NLP and Machine Learning
-* [alternative-internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,658 | 🐛 34 | 📅 2025-09-15 – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+* [alternative-internet](https://github.com/redecentralize/alternative-internet) ⭐ 5,660 | 🐛 34 | 📅 2025-09-15 – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 * [css-in-js](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,478 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02 – CSS in JS techniques comparison for React et al.
 * [angular-education](https://github.com/timjacobi/angular-education) ⭐ 5,337 | 🐛 6 | 📅 2021-02-09 – Helpful material to develop using Angular
 * [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) ⚠️ Archived – Remote-friendly Brazilian companies.
@@ -246,11 +246,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-to-program](https://github.com/karlhorky/learn-to-program) ⭐ 4,904 | 🐛 24 | 📅 2025-05-10 – Foundation in Web Development.
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) ⭐ 4,883 | 🐛 2 | 📅 2025-12-05 – Must-watch videos about CSS.
 * [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,789 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-22 – Resources for gardeners tending their digital notes on the public interwebs.
-* [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) ⭐ 4,691 | 🐛 3 | 📅 2024-09-26 – Public GraphQL APIs.
-* [datascience](https://github.com/r0f1/datascience) ⭐ 4,657 | 🐛 0 | 📅 2026-08-11 – Python resources for data science.
+* [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) ⭐ 4,693 | 🐛 3 | 📅 2024-09-26 – Public GraphQL APIs.
+* [datascience](https://github.com/r0f1/datascience) ⭐ 4,658 | 🐛 0 | 📅 2026-08-11 – Python resources for data science.
 * [ES6-Learning](https://github.com/ericdouglas/ES6-Learning) ⭐ 4,528 | 🐛 0 | 📅 2022-09-02 – Resources to learn ECMAScript 6!
+* [CryptoList](https://github.com/coinpride/CryptoList) ⭐ 4,471 | 🐛 136 | 📅 2024-06-19 – Blockchain & cryptocurrency resources.
 * [channels](https://github.com/andrew--r/channels) ⭐ 4,470 | 🐛 4 | 📅 2021-10-01 *In Russian* – YouTube channels for web developers.
-* [CryptoList](https://github.com/coinpride/CryptoList) ⭐ 4,469 | 🐛 136 | 📅 2024-06-19 – Blockchain & cryptocurrency resources.
 * [open-product-management](https://github.com/ProductHired/open-product-management) ⭐ 4,447 | 🐛 16 | 📅 2024-07-01 – Product management advice for technical people.
 * [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) ⭐ 4,371 | 🐛 14 | 📅 2025-11-28 – Deals for InfoSec related software/tools this Black Friday
 * [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) ⭐ 4,312 | 🐛 0 | 📅 2025-03-20
@@ -269,8 +269,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [APTnotes](https://github.com/kbandla/APTnotes) ⭐ 3,668 | 🐛 4 | 📅 2024-01-01 – Various public documents, whitepapers and articles about APT \[Advanced persistent threat] campaigns.
 * [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) ⭐ 3,648 | 🐛 4 | 📅 2021-09-28 – People choose popular projects, often not because it applies to their problems.
 * [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) ⭐ 3,566 | 🐛 26 | 📅 2026-08-17 – Introduction to Web Components.
-* [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) ⭐ 3,531 | 🐛 6 | 📅 2024-07-18 *In Spanish.* – El camino del Frontend Developer.
-* [twofactorauth](https://github.com/2factorauth/twofactorauth) ⭐ 3,454 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-23 – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+* [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) ⭐ 3,532 | 🐛 6 | 📅 2024-07-18 *In Spanish.* – El camino del Frontend Developer.
+* [twofactorauth](https://github.com/2factorauth/twofactorauth) ⭐ 3,455 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-24 – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   * <https://twofactorauth.org/>
 * [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) ⭐ 3,343 | 🐛 0 | 📅 2025-06-05 – Discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 * [py-must-watch](https://github.com/s16h/py-must-watch) ⭐ 3,339 | 🐛 25 | 🌐 HTML | 📅 2021-10-27 by @s16h – Must-watch videos about Python.
@@ -279,12 +279,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources) ⭐ 3,244 | 🐛 29 | 📅 2026-02-05 – Resources for learning programming and computer science.
 * [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) ⭐ 3,170 | 🐛 0 | 🌐 HTML | 📅 2025-02-09 – Rich Hickey's works on the internet.
 * [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) ⭐ 3,024 | 🐛 62 | 🌐 Nunjucks | 📅 2026-08-23 – Shaming sites with dumb password rules.
-* [Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) ⭐ 2,992 | 🐛 19 | 📅 2025-06-24 – Free music players, tools, downloaders, streaming sites, and Telegram bots for music.
+* [Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) ⭐ 2,993 | 🐛 19 | 📅 2025-06-24 – Free music players, tools, downloaders, streaming sites, and Telegram bots for music.
 * [foss\_photo\_libraries](https://github.com/meichthys/foss_photo_libraries) ⭐ 2,796 | 🐛 27 | 🌐 Python | 📅 2026-04-18 – Free and Open Source Photo Libraries.
 * [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) ⭐ 2,769 | 🐛 33 | 📅 2025-02-24 – Checklist / collection of Search Engine Optimization (SEO) tips and technics.
 * [dad-jokes](https://github.com/wesbos/dad-jokes) ⭐ 2,716 | 🐛 16 | 📅 2026-03-02 – Dad style programming jokes.
 * [php-must-watch](https://github.com/phptodayorg/php-must-watch) ⭐ 2,609 | 🐛 0 | 🌐 PHP | 📅 2018-10-18 – Must-watch videos about PHP.
-* [learn-tt](https://github.com/jozefg/learn-tt) ⭐ 2,485 | 🐛 5 | 📅 2025-04-21 – Resources for learning type theory.
+* [learn-tt](https://github.com/jozefg/learn-tt) ⭐ 2,486 | 🐛 5 | 📅 2025-04-21 – Resources for learning type theory.
 * [datascience-pizza](https://github.com/PizzaDeDados/datascience-pizza) ⭐ 2,455 | 🐛 11 | 📅 2024-04-05 *In Portugese* – Materiais de estudo em análise de dados e áreas afins, empresas que trabalham com dados e dicionário de conceitos.
 * [guides](https://github.com/NARKOZ/guides) ⭐ 2,422 | 🐛 3 | 📅 2025-07-02 by @NARKOZ – Design and development guides
 * [classless-css](https://github.com/dbohdan/classless-css) ⭐ 2,368 | 🐛 5 | 🌐 HTML | 📅 2026-04-03 – Classless CSS themes/frameworks.
@@ -297,10 +297,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [android-jobs](https://github.com/android-cn/android-jobs) ⭐ 2,183 | 🐛 21 | 📅 2021-10-14 *In Chinese* – Android positions in China.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) ⭐ 2,180 | 🐛 4 | 📅 2019-03-29 – Deep Learning for Natural Language Processing resources.
 * [weekly](https://github.com/zenany/weekly) ⭐ 2,173 | 🐛 0 | 📅 2026-08-24 *In Chinese* – Weekly summary of articles and resources.
-* [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) ⭐ 2,161 | 🐛 11 | 📅 2023-08-29 – Python API Wrappers and Libraries.
+* [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) ⭐ 2,162 | 🐛 11 | 📅 2023-08-29 – Python API Wrappers and Libraries.
 * [The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) ⭐ 2,120 | 🐛 3 | 📅 2023-06-19 – Building Startups with an AI Co-Founder.
 * [automatic-api](https://github.com/dbohdan/automatic-api) ⭐ 2,092 | 🐛 2 | 🌐 Go | 📅 2025-03-30 – Software that turns your database into a REST/GraphQL API.
-* [developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ⭐ 1,997 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-24
+* [developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ⭐ 1,997 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-25
   * <https://developers.events/>
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers) ⭐ 1,995 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-19
 * [remote-in-japan](https://github.com/remote-jp/remote-in-japan) ⭐ 1,987 | 🐛 7 | 🌐 Ruby | 📅 2026-07-27 – Tech companies in Japan that hire remote workers.
@@ -327,7 +327,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [discord-open-source](https://github.com/discord/discord-open-source) ⭐ 1,502 | 🐛 168 | 🌐 JavaScript | 📅 2024-06-20 – Open source communities living on Discord.
 * [visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) ⭐ 1,494 | 🐛 126 | 📅 2026-05-28 – Resources and references for the past and future of visual programming.
 * [ElixirBooks](https://github.com/sger/ElixirBooks) ⭐ 1,485 | 🐛 0 | 📅 2022-08-14 – Elixir programming language books
-* [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) ⭐ 1,471 | 🐛 3 | 🌐 CSS | 📅 2026-08-19 – Companies giving out swag for participation in [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
+* [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) ⭐ 1,471 | 🐛 4 | 🌐 CSS | 📅 2026-08-24 – Companies giving out swag for participation in [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
   * <https://hacktoberfestswaglist.com>
 * [javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design) ⭐ 1,430 | 🐛 2 | 🌐 JavaScript | 📅 2025-10-15
 * [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) ⭐ 1,422 | 🐛 28 | 📅 2024-12-16 – Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
@@ -345,7 +345,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [erlang-bookmarks](https://github.com/0xAX/erlang-bookmarks) ⭐ 1,156 | 🐛 0 | 📅 2021-07-31 – All about erlang programming language.
 * [effects-bibliography](https://github.com/yallop/effects-bibliography) ⭐ 1,145 | 🐛 3 | 📅 2026-04-30 – A collaborative bibliography of work related to the theory and practice of computational effects
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) ⭐ 1,143 | 🐛 0 | 🌐 Haskell | 📅 2017-10-17
-* [game-datasets](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,107 | 🐛 3 | 📅 2026-08-08 – Game datasets, tools for artificial intelligence in games
+* [game-datasets](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,108 | 🐛 3 | 📅 2026-08-08 – Game datasets, tools for artificial intelligence in games
 * [nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) ⭐ 1,076 | 🐛 7 | 🌐 Ruby | 📅 2023-06-27 – Practical Natural Language Processing done in Ruby
   * <http://rubynlp.org>
 * [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) ⭐ 1,074 | 🐛 1 | 📅 2024-01-15 – Sublime Text essential plugins and resources.
@@ -357,7 +357,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) ⭐ 1,027 | 🐛 19 | 🌐 Python | 📅 2026-04-21 – Programming languages implemented in Rust.
 * [haskell-companies](https://github.com/erkmos/haskell-companies) ⭐ 996 | 🐛 3 | 📅 2026-05-10 – Companies using Haskell.
 * [best-practices-checklist](https://github.com/palash25/best-practices-checklist) ⭐ 976 | 🐛 0 | 📅 2024-08-26 – Language-specific resources to look up the best practices followed by that particular language's community.
-* [work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) ⭐ 958 | 🐛 3 | 📅 2026-08-22 – Remote, location-independent jobs.
+* [work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) ⭐ 958 | 🐛 3 | 📅 2026-08-25 – Remote, location-independent jobs.
   * <https://nithur-m.github.io/work-from-anywhere/>
 * [ops-books](https://github.com/stack72/ops-books) ⭐ 948 | 🐛 9 | 📅 2021-11-01 – Book recommendations related to Continuous Delivery, DevOps, Operations and Systems Thinking.
 * [10PL](https://github.com/nuprl/10PL) ⭐ 944 | 🐛 1 | 📅 2019-11-12 – 10 papers that all PhD students in programming languages ought to know, for some value of 10.
@@ -475,7 +475,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * <https://guide.onym.co>
 * [upcoming-conferences](https://github.com/svenanders/upcoming-conferences) ⚠️ Archived – Upcoming web developer conferences.
 * [BNN-ANN-papers](https://github.com/takyamamoto/BNN-ANN-papers) ⭐ 81 | 🐛 0 | 📅 2020-04-22 – Papers about Biological and Artificial Neural Networks related to (Computational) Neuroscience
-* [cloudcredits.io](https://github.com/t3-sh/cloudcredits.io) ⭐ 80 | 🐛 7 | 🌐 Astro | 📅 2025-10-20 - Cloud/SaaS/startup credits and discounts with zero affiliations.
+* [cloudcredits.io](https://github.com/t3-sh/cloudcredits.io) ⭐ 81 | 🐛 7 | 🌐 Astro | 📅 2025-10-20 - Cloud/SaaS/startup credits and discounts with zero affiliations.
   * <https://cloudcredits.io/>
 * [dev-movies](https://github.com/aryaminus/dev-movies) ⭐ 80 | 🐛 0 | 📅 2020-08-07 – Recommended movies for people working in the Software and IT Industry.
 * [Laravel-Resources](https://github.com/abhimanyu003/Laravel-Resources) ⭐ 78 | 🐛 1 | 📅 2018-06-13 – Laravel Framework Resources and Blogs.
@@ -564,94 +564,94 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ### awesome-\*
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,856 | 🐛 17 | 🌐 Python | 📅 2026-08-24 by @vinta
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,753 | 🐛 0 | 📅 2026-08-22 – Network services and web applications which can be hosted locally.
-* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,140 | 🐛 215 | 🌐 Go | 📅 2026-08-24 by @avelino – Golang
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,914 | 🐛 15 | 🌐 Python | 📅 2026-08-25 by @vinta
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,864 | 🐛 0 | 📅 2026-08-22 – Network services and web applications which can be hosted locally.
+* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,168 | 🐛 215 | 🌐 Go | 📅 2026-08-25 by @avelino – Golang
   * <http://awesome-go.com/>
-* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,859 | 🐛 69 | 🌐 HTML | 📅 2026-08-24 – [ChatGPT](https://chat.openai.com/) prompt examples.
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,721 | 🐛 724 | 🌐 Swift | 📅 2026-08-21 by @jaywcjlove – Premium macOS software in various categories
+* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 167,869 | 🐛 69 | 🌐 HTML | 📅 2026-08-25 – [ChatGPT](https://chat.openai.com/) prompt examples.
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,744 | 🐛 725 | 🌐 Swift | 📅 2026-08-25 by @jaywcjlove – Premium macOS software in various categories
   * <https://git.io/macx>
-* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) ⭐ 88,676 | 🐛 147 | 📅 2026-07-25 – Beginner-friendly projects to start contributing.
+* [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) ⭐ 88,690 | 🐛 147 | 📅 2026-07-25 – Beginner-friendly projects to start contributing.
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived – Interview questions.
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,590 | 🐛 159 | 📅 2026-08-24 by @awesomedata – (Large-scale) public datasets on the Internet.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,604 | 🐛 159 | 📅 2026-08-24 by @awesomedata – (Large-scale) public datasets on the Internet.
   * [source data](https://github.com/awesomedata/apd-core) ⭐ 407 | 🐛 68 | 🌐 Python | 📅 2026-08-24
-* [awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,383 | 🐛 82 | 📅 2026-08-20 – ReactJS tools, resources, videos.
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,145 | 🐛 26 | 🌐 Python | 📅 2026-08-24
-* [awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,536 | 🐛 99 | 📅 2026-07-24 – Resources for [Vue.js](http://vuejs.org/) JavaScript UI library.
-* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,506 | 🐛 26 | 📅 2026-01-04 – The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,916 | 🐛 311 | 📅 2026-08-22 – C/C++
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,643 | 🐛 65 | 📅 2023-05-04 by @prakhar1989 – University Computer Science courses across the web.
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,612 | 🐛 26 | 📅 2026-05-03 by @sindresorhus
-* [awesome-flutter](https://github.com/Solido/awesome-flutter) ⭐ 60,990 | 🐛 39 | 🌐 Dart | 📅 2026-04-21 – An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,959 | 🐛 7 | 🌐 Rust | 📅 2026-08-24
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,328 | 🐛 39 | 📅 2026-06-05 – UI/UX libraries for Android.
-* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,153 | 🐛 24 | 🌐 Swift | 📅 2026-06-24
-* [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) ⭐ 51,186 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-07 *In Chinese* – WeChat mini-programs development
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,837 | 🐛 3 | 📅 2026-08-24
-* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐ 48,678 | 🐛 25 | 📅 2024-10-25 – Resources on software design patterns.
-* [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,263 | 🐛 82 | 📅 2026-01-26 – React Components & Libraries.
-* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,001 | 🐛 81 | 📅 2026-08-16 – Remote companies and other resources.
-* [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 40,989 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
+* [awesome-react](https://github.com/enaqx/awesome-react) ⭐ 74,391 | 🐛 82 | 📅 2026-08-20 – ReactJS tools, resources, videos.
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24
+* [awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,535 | 🐛 99 | 📅 2026-07-24 – Resources for [Vue.js](http://vuejs.org/) JavaScript UI library.
+* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,516 | 🐛 26 | 📅 2026-01-04 – The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 72,921 | 🐛 311 | 📅 2026-08-22 – C/C++
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,651 | 🐛 65 | 📅 2023-05-04 by @prakhar1989 – University Computer Science courses across the web.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03 by @sindresorhus
+* [awesome-flutter](https://github.com/Solido/awesome-flutter) ⭐ 60,997 | 🐛 39 | 🌐 Dart | 📅 2026-04-21 – An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,963 | 🐛 7 | 🌐 Rust | 📅 2026-08-24
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,334 | 🐛 39 | 📅 2026-06-05 – UI/UX libraries for Android.
+* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,157 | 🐛 24 | 🌐 Swift | 📅 2026-06-24
+* [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) ⭐ 51,184 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-07 *In Chinese* – WeChat mini-programs development
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 48,840 | 🐛 3 | 📅 2026-08-24
+* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐ 48,680 | 🐛 25 | 📅 2024-10-25 – Resources on software design patterns.
+* [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,265 | 🐛 82 | 📅 2026-01-26 – React Components & Libraries.
+* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,014 | 🐛 82 | 📅 2026-08-16 – Remote companies and other resources.
+* [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
   * <https://flawlessapp.io/designtools>
-* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,498 | 🐛 184 | 📅 2025-08-28 – Command-line frameworks, toolkits, guides and gizmos.
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,703 | 🐛 16 | 📅 2026-08-19 by @veggiemonk
+* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,501 | 🐛 184 | 📅 2025-08-28 – Command-line frameworks, toolkits, guides and gizmos.
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,706 | 🐛 16 | 📅 2026-08-19 by @veggiemonk
 * [awesome-react-native](https://github.com/jondot/awesome-react-native) ⭐ 35,690 | 🐛 151 | 🌐 JavaScript | 📅 2024-07-05
   * <http://www.awesome-react-native.com>
-* [awesome-cto](https://github.com/kuchin/awesome-cto) ⭐ 35,372 | 🐛 4 | 📅 2026-03-02 – Resources for Chief Technology Officers, with the emphasis on startups
+* [awesome-cto](https://github.com/kuchin/awesome-cto) ⭐ 35,370 | 🐛 4 | 📅 2026-03-02 – Resources for Chief Technology Officers, with the emphasis on startups
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,022 | 🐛 30 | 📅 2026-08-19
-* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 34,981 | 🐛 0 | 📅 2026-08-19 by @n1trux – Open source sysadmin resources.
+* [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 34,984 | 🐛 0 | 📅 2026-08-19 by @n1trux – Open source sysadmin resources.
 * [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13
 * [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) ⚠️ Archived – Shell commands and tools specific to OS X.
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) ⭐ 30,571 | 🐛 34 | 🌐 Makefile | 📅 2022-08-29 *In Chinese*
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,859 | 🐛 8 | 📅 2026-08-22 – An open source DataScience repository to learn and apply for real world problems.
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,858 | 🐛 8 | 📅 2026-08-22 – An open source DataScience repository to learn and apply for real world problems.
 * [awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 28,975 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21 – Visual Studio Code
   * <https://viatsko.github.io/awesome-vscode/>
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,807 | 🐛 84 | 📅 2025-05-26 – Deep Learning tutorials, projects and communities.
-* [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 28,290 | 🐛 8 | 📅 2026-08-22 – Open-source intelligence (OSINT)
-* [awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,163 | 🐛 265 | 📅 2024-09-01 – [GitHub Actions](https://github.com/features/actions)
+* [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 28,300 | 🐛 8 | 📅 2026-08-22 – Open-source intelligence (OSINT)
+* [awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,164 | 🐛 266 | 📅 2024-09-01 – [GitHub Actions](https://github.com/features/actions)
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,645 | 🐛 4 | 📅 2026-08-14 – Falsehoods programmers believe in.
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,281 | 🐛 445 | 📅 2025-07-31 – Large Language Models
-* [awesome-electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,264 | 🐛 7 | 📅 2026-05-03 – Resources for creating apps with [Electron](http://electron.atom.io/) (formerly atom-shell).
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest) ⭐ 26,999 | 🐛 105 | 📅 2026-07-25 – Penetration testing resources and tools.
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,282 | 🐛 445 | 📅 2025-07-31 – Large Language Models
+* [awesome-electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,265 | 🐛 7 | 📅 2026-05-03 – Resources for creating apps with [Electron](http://electron.atom.io/) (formerly atom-shell).
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,001 | 🐛 106 | 📅 2026-07-25 – Penetration testing resources and tools.
 * [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) ⚠️ Archived – Warez and piracy links
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,223 | 🐛 11 | 🌐 Ruby | 📅 2026-08-03 by @matteocrippa
 * [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18 – The most cited deep learning papers
-* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) ⭐ 25,777 | 🐛 23 | 📅 2026-04-28
+* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) ⭐ 25,778 | 🐛 23 | 📅 2026-04-28
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ⚠️ Archived – Linux applications for all users and developers.
-* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,477 | 🐛 0 | 📅 2026-04-18 – Places to learn and/or practice algorithms.
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,351 | 🐛 270 | 📅 2024-03-26 by @kahun – Open source sysadmin resources.
+* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,476 | 🐛 0 | 📅 2026-04-18 – Places to learn and/or practice algorithms.
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,352 | 🐛 270 | 📅 2024-03-26 by @kahun – Open source sysadmin resources.
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 92 | 📅 2024-05-17 by @jbhuang0604
-* [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) ⭐ 21,652 | 🐛 4 | 🌐 Python | 📅 2026-08-11 – [Ngrok](https://ngrok.com/) alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-* [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,576 | 🐛 139 | 📅 2026-03-26 – .NET libraries, tools, frameworks and software.
-* [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,370 | 🐛 211 | 🌐 C# | 📅 2026-02-27 – .NET core libraries, tools, frameworks and software
-* [awesome-readme](https://github.com/matiassingers/awesome-readme) ⭐ 21,365 | 🐛 1 | 📅 2026-08-20 – READMEs examples and best practices
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,237 | 🐛 1 | 🌐 Shell | 📅 2026-08-22 – Command line apps
-* [awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,596 | 🐛 537 | 🌐 Python | 📅 2026-07-15 by @pluja – Services and alternatives that respect your privacy because PRIVACY MATTERS.
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,539 | 🐛 144 | 🌐 Python | 📅 2025-09-03 – Open-source alternatives to established SaaS products.
+* [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) ⭐ 21,653 | 🐛 4 | 🌐 Python | 📅 2026-08-11 – [Ngrok](https://ngrok.com/) alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+* [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,577 | 🐛 139 | 📅 2026-03-26 – .NET libraries, tools, frameworks and software.
+* [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,371 | 🐛 211 | 🌐 C# | 📅 2026-02-27 – .NET core libraries, tools, frameworks and software
+* [awesome-readme](https://github.com/matiassingers/awesome-readme) ⭐ 21,367 | 🐛 1 | 📅 2026-08-20 – READMEs examples and best practices
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,239 | 🐛 1 | 🌐 Shell | 📅 2026-08-22 – Command line apps
+* [awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,595 | 🐛 537 | 🌐 Python | 📅 2026-07-15 by @pluja – Services and alternatives that respect your privacy because PRIVACY MATTERS.
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,540 | 🐛 144 | 🌐 Python | 📅 2025-09-03 – Open-source alternatives to established SaaS products.
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,081 | 🐛 58 | 📅 2026-08-23 – OS X applications, tools and communities.
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,929 | 🐛 13 | 📅 2026-08-18 – Natural Language Processing.
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17,969 | 🐛 9 | 🌐 Shell | 📅 2026-08-21
-* [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,552 | 🐛 34 | 📅 2026-02-08 – [TensorFlow](https://www.tensorflow.org/) machine intelligence library.
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,930 | 🐛 13 | 📅 2026-08-18 – Natural Language Processing.
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17,969 | 🐛 10 | 🌐 Shell | 📅 2026-08-21
+* [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) ⭐ 17,551 | 🐛 34 | 📅 2026-02-08 – [TensorFlow](https://www.tensorflow.org/) machine intelligence library.
 * [awesome-vite](https://github.com/vitejs/awesome-vite) ⭐ 17,226 | 🐛 134 | 🌐 JavaScript | 📅 2026-02-04 – [Vite](https://vitejs.dev/) front-end build tooling.
-* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,932 | 🐛 69 | 📅 2024-06-02
-* [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,782 | 🐛 18 | 🌐 Shell | 📅 2026-07-27 by @thibmaek – Raspberry Pi tools, projects, images and resources
+* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,933 | 🐛 69 | 📅 2024-06-02
+* [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 16,783 | 🐛 18 | 🌐 Shell | 📅 2026-07-27 by @thibmaek – Raspberry Pi tools, projects, images and resources
 * [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,650 | 🐛 23 | 📅 2026-02-01 – [PyTorch](https://pytorch.org/) Python machine learning framework.
-* [awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,164 | 🐛 0 | 🌐 Python | 📅 2026-08-14 – Mathematics
-* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,122 | 🐛 68 | 🌐 Python | 📅 2026-08-15
+* [awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,165 | 🐛 0 | 🌐 Python | 📅 2026-08-14 – Mathematics
+* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,124 | 🐛 70 | 🌐 Python | 📅 2026-08-15
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,055 | 🐛 81 | 🌐 Shell | 📅 2026-06-23
   * <https://ramitsurana.github.io/awesome-kubernetes>
 * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,241 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 – Creative Coding: Generative Art, Data visualization, Interaction Design
-* [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,163 | 🐛 0 | 📅 2026-08-14 – [Tailwind CSS](https://tailwindcss.com/)
+* [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,164 | 🐛 0 | 📅 2026-08-14 – [Tailwind CSS](https://tailwindcss.com/)
   * <https://git.io/awesome-tailwindcss>
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql) ⭐ 15,106 | 🐛 6 | 📅 2026-08-14 – GraphQL & Relay Resources.
-* [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,791 | 🐛 315 | 📅 2026-01-11 – Software, libraries, documents, books, resources and cool stuff about security.
+* [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,792 | 🐛 315 | 📅 2026-01-11 – Software, libraries, documents, books, resources and cool stuff about security.
 * [awesome-lowcode](https://github.com/taowen/awesome-lowcode) ⭐ 14,718 | 🐛 11 | 📅 2024-11-07 *In Chinese* – Chinese low code platforms.
-* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,543 | 🐛 3 | 📅 2026-07-31 – Big data frameworks, resources and other awesomeness.
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,493 | 🐛 8 | 📅 2026-08-20 – Microservice Architecture related principles and technologies.
-* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,151 | 🐛 25 | 📅 2024-06-07
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,542 | 🐛 3 | 📅 2026-07-31 – Big data frameworks, resources and other awesomeness.
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,494 | 🐛 8 | 📅 2026-08-20 – Microservice Architecture related principles and technologies.
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,153 | 🐛 25 | 📅 2024-06-07
 * [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,144 | 🐛 8 | 📅 2026-08-13 by @markets
   * <http://awesome-ruby.com/>
-* [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) ⭐ 14,139 | 🐛 28 | 📅 2024-12-08 – Competitive Programming, Algorithm and Data Structure resources
+* [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) ⭐ 14,140 | 🐛 28 | 📅 2024-12-08 – Competitive Programming, Algorithm and Data Structure resources
   * <http://codeforces.com/blog/entry/23054>
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,128 | 🐛 101 | 🌐 Python | 📅 2024-03-12 – Amazon Web Services (AWS)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,729 | 🐛 4 | 🌐 Python | 📅 2026-08-21
@@ -662,96 +662,96 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,094 | 🐛 87 | 📅 2024-07-03 by @chiraggude
 * [Awesome\_APIs](https://github.com/TonnyL/Awesome_APIs) ⚠️ Archived
 * [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) ⭐ 13,082 | 🐛 14 | 📅 2024-03-02 by @rShetty – Important Podcasts for software engineers.
-* [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,753 | 🐛 2 | 📅 2026-08-17 – Flask Python web framework resources and plugins.
+* [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,754 | 🐛 2 | 📅 2026-08-17 – Flask Python web framework resources and plugins.
 * [awesome-system-design](https://github.com/madd86/awesome-system-design) ⭐ 12,432 | 🐛 19 | 📅 2026-02-27 – Distributed systems design
-* [awesome-ddd](https://github.com/heynickc/awesome-ddd) ⭐ 12,341 | 🐛 4 | 📅 2026-08-10 by @heynickc – Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming
-* [awesome-android](https://github.com/JStumpp/awesome-android) ⭐ 12,296 | 🐛 94 | 📅 2025-10-27 by @JStumpp
-* [awesome-redux](https://github.com/xgrommx/awesome-redux) ⭐ 12,285 | 🐛 32 | 📅 2022-10-04 by @xgrommx – [Redux](https://github.com/rackt/redux) ⭐ 61,508 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20 web application state container
+* [awesome-ddd](https://github.com/heynickc/awesome-ddd) ⭐ 12,340 | 🐛 4 | 📅 2026-08-10 by @heynickc – Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming
+* [awesome-android](https://github.com/JStumpp/awesome-android) ⭐ 12,297 | 🐛 95 | 📅 2025-10-27 by @JStumpp
+* [awesome-redux](https://github.com/xgrommx/awesome-redux) ⭐ 12,285 | 🐛 32 | 📅 2022-10-04 by @xgrommx – [Redux](https://github.com/rackt/redux) ⭐ 61,509 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-20 web application state container
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,058 | 🐛 68 | 📅 2026-05-21
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 11,793 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22 – [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
   * <https://apsdehal.in/awesome-ctf/>
-* [awesome-indie](https://github.com/mezod/awesome-indie) ⭐ 11,730 | 🐛 104 | 📅 2024-06-12 – Resources for independent developers to make money
-* [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) ⭐ 11,618 | 🐛 2 | 📅 2026-08-24 – [FastAPI](https://fastapi.tiangolo.com/) Python web framework
+* [awesome-indie](https://github.com/mezod/awesome-indie) ⭐ 11,729 | 🐛 104 | 📅 2024-06-12 – Resources for independent developers to make money
+* [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) ⭐ 11,619 | 🐛 2 | 📅 2026-08-24 – [FastAPI](https://fastapi.tiangolo.com/) Python web framework
 * [awesome-dotnet-architecture](https://github.com/mehdihadeli/awesome-dotnet-architecture) ⭐ 11,588 | 🐛 47 | 📅 2026-07-16 – Software architecture, patterns, and principles in .NET platform.
 * [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) ⭐ 11,588 | 🐛 47 | 📅 2026-07-16 by @mehdihadeli – Software architecture, patterns, and principles.
 * [awesome-c](https://github.com/kozross/awesome-c) ⭐ 11,508 | 🐛 99 | 📅 2025-12-27 by @kozross – C frameworks, libraries, resources etc.
   * [mirror](https://notabug.org/koz.ross/awesome-c)
-* [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,376 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23 – [Kotlin](https://kotlinlang.org/) programming language
+* [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) ⭐ 11,377 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-23 – [Kotlin](https://kotlinlang.org/) programming language
   * <https://kotlin.link/>
 * [awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,223 | 🐛 10 | 🌐 Python | 📅 2026-08-18 – [Django](https://www.djangoproject.com/) Python web framework
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,215 | 🐛 12 | 📅 2018-03-08 – UI/UX libraries for iOS.
 * [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15 – Computer vision / deep learning.
-* [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,110 | 🐛 256 | 📅 2026-07-29 – [Next.js](https://nextjs.org/) React-based JavaScript framework
-* [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,080 | 🐛 12 | 🌐 Shell | 📅 2026-08-10 – Search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty.
-* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,063 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 – Coding style conventions and standards.
+* [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,110 | 🐛 257 | 📅 2026-07-29 – [Next.js](https://nextjs.org/) React-based JavaScript framework
+* [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,082 | 🐛 12 | 🌐 Shell | 📅 2026-08-10 – Search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty.
+* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,064 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 – Coding style conventions and standards.
   * <https://awesome-guidelines.com>
 * [awesome-hyper](https://github.com/bnb/awesome-hyper) ⭐ 11,001 | 🐛 23 | 📅 2022-09-20 – [Hyper](https://hyper.is/) terminal
-* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) ⭐ 10,829 | 🐛 3 | 📅 2026-07-26
-* [awesome-godot](https://github.com/godotengine/awesome-godot) ⭐ 10,614 | 🐛 66 | 📅 2026-07-09 – [Godot](https://godotengine.org/) game engine
+* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) ⭐ 10,830 | 🐛 3 | 📅 2026-07-26
+* [awesome-godot](https://github.com/godotengine/awesome-godot) ⭐ 10,617 | 🐛 66 | 📅 2026-07-09 – [Godot](https://godotengine.org/) game engine
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,533 | 🐛 23 | 🌐 Python | 📅 2026-06-01 – Honeypot resources
 * [awesome-angular](https://github.com/PatrickJS/awesome-angular) ⭐ 10,065 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 by @PatrickJS
 * [awesome-bash](https://github.com/awesome-lists/awesome-bash) ⭐ 10,044 | 🐛 8 | 🌐 Shell | 📅 2026-05-21
 * [awesomo](https://github.com/lk-geimfari/awesomo) ⭐ 9,925 | 🐛 11 | 🌐 Go | 📅 2026-06-04 – Open source projects in various languages.
 * [awesome-rl](https://github.com/aikorea/awesome-rl) ⭐ 9,919 | 🐛 7 | 📅 2023-05-25 – Reinforcement Learning.
-* [awesome-privacy](https://github.com/lissy93/awesome-privacy) ⭐ 9,789 | 🐛 2 | 🌐 Astro | 📅 2026-08-24 by @lissy93 – Privacy & security-focused software and services.
+* [awesome-privacy](https://github.com/lissy93/awesome-privacy) ⭐ 9,792 | 🐛 2 | 🌐 Astro | 📅 2026-08-24 by @lissy93 – Privacy & security-focused software and services.
   * <https://awesome-privacy.xyz>
 * [awesome-wasm](https://github.com/mbasso/awesome-wasm) ⭐ 9,627 | 🐛 92 | 📅 2024-11-15 – WebAssembly
 * [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,508 | 🐛 1 | 📅 2026-08-11 – [LangChain](https://langchain.com/) LLM applications framework.
 * [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,495 | 🐛 5 | 🌐 CSS | 📅 2026-06-08 – CSS frameworks
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9,374 | 🐛 96 | 📅 2026-07-25 – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,367 | 🐛 38 | 📅 2026-05-13 by @emacs-tw
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,368 | 🐛 38 | 📅 2026-05-13 by @emacs-tw
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,351 | 🐛 74 | 📅 2026-07-15 – Resources useful for incident responders.
 * [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) ⭐ 9,277 | 🐛 53 | 🌐 CSS | 📅 2024-04-06 – [Obsidian](https://obsidian.md/) knowledge base app.
 * [awesome-scala](https://github.com/lauris/awesome-scala) ⭐ 9,238 | 🐛 14 | 🌐 Python | 📅 2024-09-20 – Scala programming language
-* [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,050 | 🐛 18 | 📅 2026-07-28 – Web Performance Optimization
-* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 8,986 | 🐛 29 | 📅 2026-07-18 – Data engineering tools for software developers.
+* [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) ⭐ 9,050 | 🐛 20 | 📅 2026-07-28 – Web Performance Optimization
+* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 8,988 | 🐛 31 | 📅 2026-07-18 – Data engineering tools for software developers.
 * [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,377 | 🐛 21 | 🌐 Python | 📅 2026-08-21 – [Home Assistant](https://www.home-assistant.io/) home automation
   * <https://awesome-ha.com>
 * [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,354 | 🐛 26 | 📅 2025-10-28 – [gRPC](https://grpc.io/) RPC framework.
-* [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,167 | 🐛 46 | 🌐 Astro | 📅 2026-08-23 – Prometheus alerting rules
+* [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,168 | 🐛 46 | 🌐 Astro | 📅 2026-08-23 – Prometheus alerting rules
   * <https://awesome-prometheus-alerts.grep.to>
 * [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) ⭐ 8,130 | 🐛 0 | 🌐 Makefile | 📅 2026-08-19 – tools and programming libraries related to web scraping and data processing
-* [awesome-electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,061 | 🐛 30 | 📅 2026-01-05 – Electronic engineering
+* [awesome-electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,062 | 🐛 30 | 📅 2026-01-05 – Electronic engineering
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 8,048 | 🐛 17 | 📅 2026-08-18 – Embedded and Low-level development in the Rust programming language
-* [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) ⭐ 7,916 | 🐛 70 | 📅 2026-04-06 – Open source workflow engines
+* [awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) ⭐ 7,914 | 🐛 70 | 📅 2026-04-06 – Open source workflow engines
 * [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,749 | 🐛 2 | 🌐 Markdown | 📅 2026-08-05 – YouTubers that teach about technology.
-* [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) ⭐ 7,649 | 🐛 8 | 📅 2026-07-28 – [reMarkable](https://remarkable.com/) e-ink tablet.
+* [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) ⭐ 7,650 | 🐛 8 | 📅 2026-07-28 – [reMarkable](https://remarkable.com/) e-ink tablet.
 * [awesome-serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,585 | 🐛 34 | 📅 2026-02-11 by @anaibol – Services, solutions and resources for serverless / nobackend applications.
 * [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) ⭐ 7,488 | 🐛 52 | 📅 2025-11-30 – Deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2022)
 * [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) ⭐ 7,345 | 🐛 10 | 📅 2024-01-05 – For when people get too hyped up about things.
-* [awesome-blender](https://github.com/agmmnn/awesome-blender) ⭐ 7,234 | 🐛 26 | 📅 2026-01-22 – [Blender](https://www.blender.org/) add-ons, tools, tutorials and 3D resources.
-* [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) ⭐ 7,234 | 🐛 0 | 📅 2026-08-03 – Skills roadmaps for software development
-* [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,145 | 🐛 129 | 📅 2025-11-28
+* [awesome-blender](https://github.com/agmmnn/awesome-blender) ⭐ 7,236 | 🐛 26 | 📅 2026-01-22 – [Blender](https://www.blender.org/) add-ons, tools, tutorials and 3D resources.
+* [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) ⭐ 7,235 | 🐛 0 | 📅 2026-08-03 – Skills roadmaps for software development
+* [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) ⭐ 7,146 | 🐛 129 | 📅 2025-11-28
   * <http://automated-testing.info>
 * [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) ⭐ 7,122 | 🐛 23 | 📅 2026-03-27 – Chrome DevTools ecosystem tooling and resources.
 * [awesome-unity](https://github.com/RyanNielson/awesome-unity) ⚠️ Archived – Assets and resources for [Unity](http://unity3d.com/) game engine.
 * [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,088 | 🐛 72 | 📅 2026-07-15 – Cryptography and encryption resources.
 * [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,045 | 🐛 15 | 🌐 Python | 📅 2025-06-17 – Models for Core ML (for iOS 11+)
-* [awesome-appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,039 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 – Resources for developers to learn application security.
+* [awesome-appsec](https://github.com/paragonie/awesome-appsec) ⭐ 7,040 | 🐛 40 | 🌐 PHP | 📅 2025-02-22 – Resources for developers to learn application security.
 * [awesome-robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,978 | 🐛 37 | 📅 2024-09-22
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,623 | 🐛 34 | 📅 2026-08-04 – Pipeline toolkits.
 * [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) ⭐ 6,582 | 🐛 8 | 📅 2026-08-24 – HashiCorp Terraform
-* [awesome-console-services](https://github.com/chubin/awesome-console-services) ⭐ 6,508 | 🐛 23 | 📅 2026-02-01 – Console services (reachable via HTTP, HTTPS and other network protocols).
-* [awesome-R](https://github.com/qinwf/awesome-R) ⭐ 6,508 | 🐛 29 | 🌐 R | 📅 2025-09-18
+* [awesome-console-services](https://github.com/chubin/awesome-console-services) ⭐ 6,510 | 🐛 23 | 📅 2026-02-01 – Console services (reachable via HTTP, HTTPS and other network protocols).
+* [awesome-R](https://github.com/qinwf/awesome-R) ⭐ 6,508 | 🐛 30 | 🌐 R | 📅 2025-09-18
 * [awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,209 | 🐛 4 | 📅 2022-02-03 – Recurrent Neural Networks.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) ⭐ 6,198 | 🐛 29 | 📅 2026-06-25
-* [awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) ⭐ 6,045 | 🐛 21 | 🌐 Python | 📅 2025-05-16 *In Chinese* – Open Source Projects Related to GPT.
+* [awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) ⭐ 6,044 | 🐛 21 | 🌐 Python | 📅 2025-05-16 *In Chinese* – Open Source Projects Related to GPT.
 * [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) ⭐ 6,035 | 🐛 1 | 📅 2026-01-15 – Functional programming stuff in JavaScript.
 * [awesome-android](https://github.com/snowdream/awesome-android) ⚠️ Archived *Partially in Chinese* by @snowdream
 * [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,883 | 🐛 112 | 📅 2026-04-12 by @Wolg
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,864 | 🐛 15 | 📅 2018-01-06 *In Chinese* – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) ⭐ 5,860 | 🐛 36 | 📅 2024-07-06 – Ergonomic split keyboards.
 * [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) ⭐ 5,842 | 🐛 7 | 📅 2026-02-01 – Tiny list limited to the best JavaScript Learning Resources
-* [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) ⭐ 5,794 | 🐛 2 | 📅 2018-07-01 – Learn some Swift
+* [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) ⭐ 5,795 | 🐛 2 | 📅 2018-07-01 – Learn some Swift
 * [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,763 | 🐛 27 | 📅 2025-07-16 – Learning Resources on Web Development.
-* [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,638 | 🐛 130 | 📅 2024-06-06 – Ideas for apps to demonstrate how framework or library approach specific problems.
-* [awesome-telegram](https://github.com/ebertti/awesome-telegram) ⭐ 5,635 | 🐛 59 | 📅 2026-07-31 – Telegram messaging service
+* [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) ⭐ 5,639 | 🐛 130 | 📅 2024-06-06 – Ideas for apps to demonstrate how framework or library approach specific problems.
+* [awesome-telegram](https://github.com/ebertti/awesome-telegram) ⭐ 5,636 | 🐛 59 | 📅 2026-07-31 – Telegram messaging service
 * [awesome-css](https://github.com/awesome-css-group/awesome-css) ⭐ 5,618 | 🐛 25 | 📅 2024-10-30 by @awesome-css-group
 * [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,540 | 🐛 76 | 📅 2024-07-15 – [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_\(computer_security\)) resources
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) ⭐ 5,528 | 🐛 64 | 📅 2023-08-29 – General Android libraries.
-* [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) ⭐ 5,525 | 🐛 28 | 📅 2025-09-15 – Resources for [Nuxt.js](https://nuxtjs.org/), framework for universal Vue.js applications.
+* [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) ⭐ 5,526 | 🐛 28 | 📅 2025-09-15 – Resources for [Nuxt.js](https://nuxtjs.org/), framework for universal Vue.js applications.
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) ⭐ 5,420 | 🐛 4 | 📅 2026-08-13 – CMake
-* [awesome-nix](https://github.com/nix-community/awesome-nix) ⭐ 5,412 | 🐛 22 | 📅 2026-07-23 – [Nix](https://github.com/nixos/nix) ⭐ 17,561 | 🐛 2,925 | 🌐 C++ | 📅 2026-08-24, the purely functional package manager.
+* [awesome-nix](https://github.com/nix-community/awesome-nix) ⭐ 5,413 | 🐛 22 | 📅 2026-07-23 – [Nix](https://github.com/nixos/nix) ⭐ 17,561 | 🐛 2,925 | 🌐 C++ | 📅 2026-08-25, the purely functional package manager.
 * [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) ⚠️ Archived
 * [awesome-d3](https://github.com/wbkd/awesome-d3) ⭐ 5,318 | 🐛 5 | 📅 2023-01-13 – [D3js](http://d3js.org/) libraries, plugins and utilities.
 * [awesome-uses](https://github.com/wesbos/awesome-uses) ⭐ 5,299 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-20 – `/uses` pages detailing developer setups, gear, software and configs.
@@ -765,31 +765,31 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,062 | 🐛 13 | 🌐 Shell | 📅 2026-08-13
 * [awesome.fish](https://github.com/jorgebucaran/awesome.fish) ⭐ 5,058 | 🐛 16 | 📅 2026-01-25 – Fish shell
   * <https://git.io/awesome-fish>
-* [awesome-pwa](https://github.com/hemanth/awesome-pwa) ⭐ 4,899 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-10 – Progressive web apps.
+* [awesome-pwa](https://github.com/hemanth/awesome-pwa) ⭐ 4,899 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-10 – Progressive web apps.
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,798 | 🐛 0 | 🌐 Python | 📅 2023-03-18 – Graph embedding papers with implementations.
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) ⭐ 4,751 | 🐛 13 | 📅 2026-05-13 – [ESLint](https://eslint.org/) JavaScript linter
-* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,735 | 🐛 1 | 📅 2026-04-20
+* [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,736 | 🐛 1 | 📅 2026-04-20
 * [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) ⚠️ Archived – Webpack resources, libraries and tools
-* [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,664 | 🐛 16 | 📅 2026-08-23 – [Jupyter](https://jupyter.org/)
+* [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,663 | 🐛 16 | 📅 2026-08-25 – [Jupyter](https://jupyter.org/)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg) ⭐ 4,648 | 🐛 38 | 🌐 Shell | 📅 2026-07-16
 * [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) ⭐ 4,624 | 🐛 6 | 📅 2023-12-18 – Small, focused npm packages.
-* [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) ⭐ 4,604 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13 – [IPFS](https://ipfs.io/) distributed web
+* [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) ⭐ 4,605 | 🐛 19 | 🌐 JavaScript | 📅 2025-11-13 – [IPFS](https://ipfs.io/) distributed web
   * <https://awesome.ipfs.io/>
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,555 | 🐛 47 | 📅 2024-08-11 by @LewisJEllis
-* [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,518 | 🐛 3 | 📅 2026-05-30 – Vehicle security and car hacking
+* [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,521 | 🐛 3 | 📅 2026-05-30 – Vehicle security and car hacking
 * [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) ⭐ 4,492 | 🐛 21 | 📅 2026-07-22 – Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
   * <https://gbdev.github.io/list>
 * [awesome-iot](https://github.com/HQarroum/awesome-iot) ⭐ 4,477 | 🐛 8 | 📅 2026-08-10 by @HQarroum – Internet of Things
-* [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,476 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 – [LÖVE](http://love2d.org/) Lua game framework
+* [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,477 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 – [LÖVE](http://love2d.org/) Lua game framework
 * [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) ⭐ 4,453 | 🐛 45 | 📅 2026-04-17 by @zudochkin
 * [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,408 | 🐛 2 | 📅 2026-08-14 – [Deno](https://deno.land/), a secure runtime for JavaScript and TypeScript.
 * [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) ⭐ 4,407 | 🐛 5 | 📅 2025-10-27 – Screensavers for Mac OS X
-* [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,387 | 🐛 39 | 📅 2024-01-26 – Data visualizations frameworks, libraries and software.
+* [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,388 | 🐛 39 | 📅 2024-01-26 – Data visualizations frameworks, libraries and software.
 * [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) ⭐ 4,387 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 – Swift Playgrounds
 * [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) ⭐ 4,386 | 🐛 4 | 📅 2020-05-11 *In Chinese* – iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) ⚠️ Archived – Penetration testing
 * [awesome-analytics](https://github.com/onurakpolat/awesome-analytics) ⭐ 4,303 | 🐛 57 | 📅 2026-02-17 – Analytics services, frameworks, software and other tools.
-* [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,300 | 🐛 14 | 📅 2025-07-25 – Research in machine learning systems (MLSys).
+* [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) ⭐ 4,301 | 🐛 14 | 📅 2025-07-25 – Research in machine learning systems (MLSys).
   * <https://ai-engineering.club/>
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,254 | 🐛 35 | 📅 2026-04-07 – Open-source bioinformatics software and libraries.
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,230 | 🐛 0 | 📅 2026-02-17 – Security talks.
@@ -802,7 +802,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks) ⭐ 3,917 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-08 – Tech stacks for building different applications & features
   * <https://awesomestacks.dev>
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) ⚠️ Archived – Satellite imagery datasets with annotations for computer vision and deep learning.
-* [awesome-rest](https://github.com/marmelab/awesome-rest) ⭐ 3,907 | 🐛 15 | 📅 2026-05-13 – Great resources about RESTful API architecture, development, test, and performance
+* [awesome-rest](https://github.com/marmelab/awesome-rest) ⭐ 3,907 | 🐛 16 | 📅 2026-05-13 – Great resources about RESTful API architecture, development, test, and performance
 * [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived by @aleksandar-todorovic – Continuing the development of awesome-c on GitHub
 * [awesome-css-learning](https://github.com/micromata/awesome-css-learning) ⭐ 3,850 | 🐛 10 | 📅 2026-02-01 – A tiny list limited to the best CSS Learning Resources
 * [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) ⭐ 3,817 | 🐛 7 | 📅 2022-01-02 – Landing pages templates
@@ -818,10 +818,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-etl](https://github.com/pawl/awesome-etl) ⭐ 3,586 | 🐛 11 | 📅 2026-05-01 – ETL (extract, transform, load) frameworks, libraries, and software.
 * [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) ⭐ 3,578 | 🐛 25 | 🌐 Python | 📅 2026-04-25 – Discord communities for programmers.
 * [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,568 | 🐛 16 | 📅 2026-04-13
-* [awesome-typst](https://github.com/qjcg/awesome-typst) ⭐ 3,563 | 🐛 7 | 🌐 Emacs Lisp | 📅 2026-08-07 – [Typst](https://typst.app/) typesetting system.
+* [awesome-typst](https://github.com/qjcg/awesome-typst) ⭐ 3,564 | 🐛 7 | 🌐 Emacs Lisp | 📅 2026-08-07 – [Typst](https://typst.app/) typesetting system.
 * [awesome-crystal](https://github.com/veelenga/awesome-crystal) ⭐ 3,559 | 🐛 1 | 🌐 Crystal | 📅 2026-08-19 – Crystal Language
 * [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) ⭐ 3,532 | 🐛 13 | 📅 2024-01-16 by @xgrommx
-* [awesome-online-ide](https://github.com/styfle/awesome-online-ide) ⭐ 3,521 | 🐛 11 | 📅 2024-12-03 – Online development environments
+* [awesome-online-ide](https://github.com/styfle/awesome-online-ide) ⭐ 3,522 | 🐛 11 | 📅 2024-12-03 – Online development environments
   * <https://ide.ceriously.com>
 * [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) ⭐ 3,489 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-24
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,415 | 🐛 14 | 📅 2025-09-03 – Tools to process network traces.
@@ -835,14 +835,14 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-haskell](https://github.com/krispo/awesome-haskell) ⭐ 3,284 | 🐛 17 | 🌐 Python | 📅 2026-08-03
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) ⭐ 3,274 | 🐛 6 | 📅 2026-08-10 – All things Livecoding.
 * [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) ⭐ 3,269 | 🐛 25 | 📅 2024-10-04
-* [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) ⭐ 3,260 | 🐛 29 | 📅 2024-07-24 – Quantum computing learning and developing resources.
+* [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) ⭐ 3,262 | 🐛 29 | 📅 2024-07-24 – Quantum computing learning and developing resources.
 * [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) ⭐ 3,224 | 🐛 0 | 🌐 Markdown | 📅 2026-08-24 – [Advent of Code](https://adventofcode.com/)
 * [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) ⚠️ Archived – [Alfred](https://www.alfredapp.com/) macOS app workflows
 * [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) ⭐ 3,155 | 🐛 2 | 📅 2021-04-12 – Exquisite and compact web page effects.
 * [awesome-katas](https://github.com/gamontal/awesome-katas) ⭐ 3,151 | 🐛 1 | 📅 2026-07-16 – Code katas
 * [awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) ⚠️ Archived – Promoting Solutions that Improve Wellbeing, Freedom and Society
 * [awesome-cms](https://github.com/postlight/awesome-cms) ⭐ 3,126 | 🐛 24 | 📅 2026-03-27 – Open and closed source Content Management Systems (CMS)
-* [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,122 | 🐛 39 | 📅 2024-08-05 – Personal tech blogs.
+* [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,123 | 🐛 39 | 📅 2024-08-05 – Personal tech blogs.
 * [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) ⭐ 3,109 | 🐛 4 | 📅 2026-06-15
 * [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) ⭐ 3,071 | 🐛 26 | 📅 2023-01-24 – AutoHotkey libraries, library distributions, scripts, tools and resources.
 * [awesome-PICO-8](https://github.com/pico-8/awesome-PICO-8) ⭐ 3,069 | 🐛 0 | 📅 2026-07-28 – [PICO-8](https://www.lexaloffle.com/pico-8.php) fantasy console for making, sharing and playing tiny games
@@ -851,12 +851,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) ⭐ 3,015 | 🐛 116 | 🌐 Jupyter Notebook | 📅 2024-10-21 – Ready to use data science templates.
 * [awesome-streaming](https://github.com/manuzhang/awesome-streaming) ⭐ 3,008 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-24 – Streaming frameworks, applications, etc
 * [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,971 | 🐛 47 | 🌐 Makefile | 📅 2026-08-17 – Common Lisp
-* [awesome-api](https://github.com/Kikobeats/awesome-api) ⭐ 2,962 | 🐛 38 | 📅 2024-10-12 – Design and implement RESTful API's
+* [awesome-api](https://github.com/Kikobeats/awesome-api) ⭐ 2,963 | 🐛 38 | 📅 2024-10-12 – Design and implement RESTful API's
 * [awesome-computer-history](https://github.com/watson/awesome-computer-history) ⭐ 2,957 | 🐛 17 | 📅 2023-02-01 – Computer history videos, documentaries and related folklore.
 * [awesome-git](https://github.com/dictcp/awesome-git) ⭐ 2,934 | 🐛 70 | 📅 2026-07-07 – Git tools, resources and shiny things.
 * [awesome-logseq](https://github.com/logseq/awesome-logseq) ⭐ 2,904 | 🐛 3 | 📅 2026-04-27 – [Logseq](https://logseq.com/) personal knowledge management.
 * [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) ⭐ 2,901 | 🐛 7 | 📅 2024-03-15 – AWS Elastic Container Service and Fargate.
-* [awesome-android-performance](https://github.com/Juude/awesome-android-performance) ⭐ 2,891 | 🐛 1 | 📅 2019-05-07 – Performance optimization on Android.
+* [awesome-android-performance](https://github.com/Juude/awesome-android-performance) ⭐ 2,892 | 🐛 1 | 📅 2019-05-07 – Performance optimization on Android.
 * [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) ⭐ 2,873 | 🐛 1 | 📅 2026-04-19 by @simskij – Design, reason around and build software using architectural patterns and methods
 * [awesome-free-software](https://github.com/johnjago/awesome-free-software) ⭐ 2,871 | 🐛 40 | 📅 2025-04-29 – Free as in freedom software
 * [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) ⭐ 2,866 | 🐛 21 | 📅 2026-08-05 – [Editor.js](https://editorjs.io/) block-styled editor component.
@@ -869,17 +869,17 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) ⭐ 2,758 | 🐛 33 | 📅 2023-10-19 – Resources for digital designers.
 * [awesome-research](https://github.com/emptymalei/awesome-research) ⭐ 2,752 | 🐛 13 | 📅 2026-05-19 – Tools to help you with research/life
   * <http://openmetric.org/tool/>
-* [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) ⭐ 2,743 | 🐛 11 | 🌐 Kotlin | 📅 2024-07-01 – Open-source Android apps written in Kotlin with particular tech stack and libraries.
+* [awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) ⭐ 2,744 | 🐛 11 | 🌐 Kotlin | 📅 2024-07-01 – Open-source Android apps written in Kotlin with particular tech stack and libraries.
 * [awesome-emails](https://github.com/jonathandion/awesome-emails) ⭐ 2,733 | 🐛 46 | 📅 2024-10-03 – Build better emails.
-* [awesome-product-design](https://github.com/teoga/awesome-product-design) ⭐ 2,693 | 🐛 15 | 📅 2025-09-22 by @teoga – Bookmarks, resources, articles for product designers.
-* [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) ⭐ 2,693 | 🐛 15 | 📅 2025-09-22 by @ttt30ga – Resources for product designers.
+* [awesome-product-design](https://github.com/teoga/awesome-product-design) ⭐ 2,694 | 🐛 15 | 📅 2025-09-22 by @teoga – Bookmarks, resources, articles for product designers.
+* [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) ⭐ 2,694 | 🐛 15 | 📅 2025-09-22 by @ttt30ga – Resources for product designers.
 * [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) ⭐ 2,673 | 🐛 5 | 📅 2026-08-05
 * [awesome-docsify](https://github.com/docsifyjs/awesome-docsify) ⭐ 2,647 | 🐛 4 | 📅 2026-05-18 – [docsify](https://docsify.js.org/) documentation site generator.
 * [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) ⭐ 2,627 | 🐛 4 | 📅 2020-12-08 – Papers on node embedding techniques.
 * [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) ⭐ 2,624 | 🐛 8 | 📅 2026-08-17 – Getting started with web archiving
 * [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) ⭐ 2,622 | 🐛 3 | 📅 2026-08-10 – Implementations of the [Mapbox Vector Tile](https://www.mapbox.com/developers/vector-tiles/) specification.
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,609 | 🐛 17 | 🌐 Python | 📅 2026-08-17 – MySQL software, libraries, tools and resources
-* [awesome-Engineering-Team-Management](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2,585 | 🐛 4 | 📅 2026-08-14 – How to transition from software development to engineering management.
+* [awesome-Engineering-Team-Management](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2,586 | 🐛 4 | 📅 2026-08-14 – How to transition from software development to engineering management.
 * [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) ⭐ 2,568 | 🐛 2 | 📅 2022-03-02 *In Chinese*
 * [awesome-sustainable-technology](https://github.com/protontypes/awesome-sustainable-technology) ⭐ 2,543 | 🐛 77 | 📅 2026-08-23 – Open technology projects sustaining stable climate, energy supply and vital natural resources.
   * <https://opensustain.tech/>
@@ -891,18 +891,18 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) ⭐ 2,475 | 🐛 1 | 📅 2026-08-20 – [DuckDB](https://duckdb.org/) in-process SQL OLAP database management system.
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28 – Decision Tree Research Papers
 * [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20 – Community detection papers with implementations.
-* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,436 | 🐛 0 | 📅 2026-01-09 – OpenGL libraries, debuggers and resources.
+* [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 – OpenGL libraries, debuggers and resources.
 * [awesome-angularjs](https://github.com/gianarb/awesome-angularjs) ⚠️ Archived by @gianarb
-* [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) ⭐ 2,414 | 🐛 17 | 📅 2026-05-27 – Visual regression testing
+* [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) ⭐ 2,414 | 🐛 18 | 📅 2026-05-27 – Visual regression testing
 * [awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) ⭐ 2,408 | 🐛 15 | 🌐 Python | 📅 2026-03-02 – Open-source hardware tools.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) ⭐ 2,388 | 🐛 0 | 📅 2026-08-22 – MQTT related stuff.
-* [awesome-testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,356 | 🐛 7 | 📅 2026-08-22 – Testing resources
+* [awesome-testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,356 | 🐛 8 | 📅 2026-08-22 – Testing resources
   * <https://git.io/v1hSm>
-* [awesome-startup](https://github.com/KrishMunot/awesome-startup) ⭐ 2,332 | 🐛 42 | 📅 2026-08-09 – Resources to build your own startup
+* [awesome-startup](https://github.com/KrishMunot/awesome-startup) ⭐ 2,332 | 🐛 42 | 📅 2026-08-25 – Resources to build your own startup
 * [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 – Free software testing books.
-* [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) ⭐ 2,318 | 🐛 12 | 📅 2025-10-29 – Open source or open source licensed documents, guides, books.
-* [awesome-product-management](https://github.com/dend/awesome-product-management) ⭐ 2,318 | 🐛 175 | 🌐 CSS | 📅 2026-02-08 by @dend – Resources for product/program managers to learn and grow.
-* [awesome-htmx](https://github.com/rajasegar/awesome-htmx) ⭐ 2,310 | 🐛 8 | 📅 2025-06-06 – [htmx](https://htmx.org/) JavaScript library for building hypermedia-driven applications.
+* [awesome-product-management](https://github.com/dend/awesome-product-management) ⭐ 2,319 | 🐛 175 | 🌐 CSS | 📅 2026-02-08 by @dend – Resources for product/program managers to learn and grow.
+* [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) ⭐ 2,317 | 🐛 12 | 📅 2025-10-29 – Open source or open source licensed documents, guides, books.
+* [awesome-htmx](https://github.com/rajasegar/awesome-htmx) ⭐ 2,309 | 🐛 8 | 📅 2025-06-06 – [htmx](https://htmx.org/) JavaScript library for building hypermedia-driven applications.
 * [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,296 | 🐛 9 | 📅 2026-07-22
 * [awesome-dash](https://github.com/ucg8j/awesome-dash) ⭐ 2,269 | 🐛 1 | 🌐 Python | 📅 2024-12-30 – [Dash (plotly)](https://plot.ly/dash/) framework for analytical web applications
 * [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) ⚠️ Archived by @workos
@@ -920,7 +920,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) ⚠️ Archived – [Robot Operating System](http://www.ros.org/)
   * <https://fkromer.github.io/awesome-ros2>
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) ⭐ 2,127 | 🐛 11 | 📅 2025-06-06 by @akrawchyk
-* [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) ⭐ 2,111 | 🐛 3 | 📅 2025-08-05 – Dynamic pinned gists for GitHub.
+* [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) ⭐ 2,112 | 🐛 3 | 📅 2025-08-05 – Dynamic pinned gists for GitHub.
 * [awesome-charting](https://github.com/zingchart/awesome-charting) ⭐ 2,106 | 🐛 11 | 📅 2024-02-18 – Charts and dataviz.
 * [awesome-v](https://github.com/vlang/awesome-v) ⭐ 2,105 | 🐛 4 | 📅 2026-08-15 – [V](https://vlang.io/) programming language
 * [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) ⭐ 2,093 | 🐛 4 | 📅 2024-10-17 – Cryptography papers, articles, tutorials and howtos.
@@ -930,8 +930,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-fonts](https://github.com/brabadu/awesome-fonts) ⭐ 2,054 | 🐛 9 | 📅 2026-07-26 – Fonts and everything
 * [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) ⭐ 2,009 | 🐛 32 | 📅 2026-04-14 – Continuous Integration and Continuous Delivery
   * <http://www.ciandcd.com/>
+* [awesome-a11y](https://github.com/brunopulis/awesome-a11y) ⭐ 1,983 | 🐛 60 | 📅 2026-08-03 – Accesibility tools, articles and resources.
 * [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) ⭐ 1,983 | 🐛 37 | 📅 2026-04-20
-* [awesome-a11y](https://github.com/brunopulis/awesome-a11y) ⭐ 1,982 | 🐛 60 | 📅 2026-08-03 – Accesibility tools, articles and resources.
 * [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,979 | 🐛 7 | 📅 2026-06-19 – Python types, stubs, plugins, and tools to work with them.
 * [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) ⭐ 1,941 | 🐛 11 | 🌐 Kotlin | 📅 2024-05-11
 * [awesome-atom](https://github.com/mehcode/awesome-atom) ⚠️ Archived – [Atom](https://atom.io/) text editor
@@ -939,7 +939,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-spark](https://github.com/awesome-spark/awesome-spark) ⭐ 1,892 | 🐛 24 | 🌐 Shell | 📅 2026-02-27 – Apache Spark packages and resources.
 * [awesome-xamarin](https://github.com/XamSome/awesome-xamarin) ⚠️ Archived by @XamSome – [Xamarin](https://visualstudio.microsoft.com/xamarin/) mobile application framework
 * [awesome-xamarin](https://github.com/XamSome/awesome-xamarin) ⚠️ Archived by @XamSome – Interesting libraries/tools for Xamarin mobile projects
-* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,862 | 🐛 14 | 📅 2026-01-05 – Open source technology for agriculture, farming, and gardening
+* [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) ⭐ 1,863 | 🐛 14 | 📅 2026-01-05 – Open source technology for agriculture, farming, and gardening
 * [awesome-canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,860 | 🐛 12 | 🌐 Markdown | 📅 2026-06-14 – HTML5 Canvas
 * [awesome-websockets](https://github.com/facundofarias/awesome-websockets) ⭐ 1,859 | 🐛 3 | 📅 2026-08-17 – Websocket libraries and resources.
 * [awesome-job-boards](https://github.com/tramcar/awesome-job-boards) ⭐ 1,851 | 🐛 22 | 📅 2026-07-29 by @tramcar
@@ -1017,7 +1017,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) ⭐ 1,352 | 🐛 12 | 📅 2026-08-12 – Bitcoin services and tools for software developers.
 * [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) ⭐ 1,334 | 🐛 14 | 📅 2024-08-20 – Python-based web development using [htmx](https://htmx.org/) library.
 * [Awesome-Billing](https://github.com/kdeldycke/awesome-billing) ⭐ 1,329 | 🐛 2 | 📅 2026-08-14 – Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
-* [awesome-irc](https://github.com/davisonio/awesome-irc) ⭐ 1,325 | 🐛 2 | 📅 2026-08-11 – Internet Relay Chat protocol.
+* [awesome-irc](https://github.com/davisonio/awesome-irc) ⭐ 1,326 | 🐛 2 | 📅 2026-08-11 – Internet Relay Chat protocol.
 * [awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes) ⭐ 1,307 | 🐛 6 | 📅 2024-04-25
 * [Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) ⭐ 1,300 | 🐛 3 | 📅 2022-07-14 – Defences against [Cobalt Strike](https://www.cobaltstrike.com/), Adversary Simulations and Red Team Operations software.
 * [awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) ⭐ 1,286 | 🐛 3 | 📅 2023-12-15 – All that you need to create a great mobile web experience
@@ -1036,7 +1036,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mad-science](https://github.com/feross/awesome-mad-science) ⭐ 1,215 | 🐛 11 | 📅 2022-05-01 – npm packages that make you say "wow, didn't know that was possible!"
 * [awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) ⭐ 1,210 | 🐛 0 | 📅 2024-11-15 – Teaching kids programming
 * [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) ⭐ 1,207 | 🐛 1 | 📅 2023-02-07 – Tools for writing cross-platform Node.js code.
-* [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,199 | 🐛 8 | 📅 2023-04-20 – Information retrieval resources
+* [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,201 | 🐛 8 | 📅 2023-04-20 – Information retrieval resources
 * [awesome-microbit](https://github.com/carlosperate/awesome-microbit) ⭐ 1,194 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 – BBC micro:bit
 * [awesome-activitypub](https://github.com/BasixKOR/awesome-activitypub) ⭐ 1,192 | 🐛 9 | 📅 2024-12-17 – ActivityPub based projects
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) ⭐ 1,183 | 🐛 16 | 📅 2026-08-24 – FFmpeg resources.
@@ -1061,12 +1061,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) ⭐ 1,058 | 🐛 55 | 📅 2024-06-14 – Resources for Digital Nomads.
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05 – Gradient boosting research papers with implementations.
 * [awesome-uxn](https://github.com/hundredrabbits/awesome-uxn) ⭐ 1,037 | 🐛 10 | 📅 2026-04-13 – The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
-* [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) ⭐ 1,031 | 🐛 3 | 📅 2026-08-24 by @emredurukn
+* [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) ⭐ 1,031 | 🐛 4 | 📅 2026-08-24 by @emredurukn
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) ⭐ 1,023 | 🐛 5 | 📅 2026-07-01 – Sheet music software, libraries and resources.
 * [awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) ⭐ 1,013 | 🐛 9 | 🌐 Python | 📅 2024-06-11 – Comparison of different instances of [Lemmy](https://join-lemmy.org/).
 * [awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) ⭐ 1,009 | 🐛 1 | 📅 2024-04-22 by @lucasviola
 * [awesome-ansible](https://github.com/jdauphant/awesome-ansible) ⚠️ Archived – [Ansible](https://www.ansible.com/) configuration management
-* [awesome-preact](https://github.com/preactjs/awesome-preact) ⭐ 1,002 | 🐛 0 | 📅 2026-08-05 – [Preact](https://github.com/preactjs/preact) ⭐ 38,831 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-24 JavaScript framework
+* [awesome-preact](https://github.com/preactjs/awesome-preact) ⭐ 1,002 | 🐛 0 | 📅 2026-08-05 – [Preact](https://github.com/preactjs/preact) ⭐ 38,831 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-25 JavaScript framework
 * [awesome-icons](https://github.com/notlmn/awesome-icons) ⭐ 994 | 🐛 9 | 📅 2026-07-19 – Downloadable SVG/PNG/Font icon projects
 * [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) ⭐ 994 | 🐛 14 | 📅 2026-03-06 – Tools, demos and resources to go beyond LaTeX.
 * [awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) ⭐ 993 | 🐛 7 | 📅 2024-08-02 – Schools and researchers in computational neuroscience
@@ -1104,7 +1104,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) ⭐ 891 | 🐛 22 | 📅 2024-04-02 by @imbaniac – Blockchain services and exchanges
 * [awesome-seo](https://github.com/teles/awesome-seo) ⭐ 885 | 🐛 103 | 🌐 TypeScript | 📅 2026-04-02 – SEO (Search Engine Optimization) links.
   * <http://jotateles.com.br/awesome-seo/>
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 881 | 🐛 34 | 📅 2024-03-15 – Chemical informatics
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 881 | 🐛 35 | 📅 2024-03-15 – Chemical informatics
 * [awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) ⭐ 875 | 🐛 4 | 🌐 Vue | 📅 2026-06-21 – Technical blogs
   * <https://tech-blogs.dev/>
 * [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) ⭐ 870 | 🐛 6 | 📅 2026-05-09 – Implementing desktop apps with JavaScript
@@ -1148,7 +1148,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-arduino](https://github.com/Lembed/Awesome-arduino) ⭐ 726 | 🐛 9 | 🌐 Shell | 📅 2023-12-05 – Arduino hardwares, libraries and softwares with update script
 * [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 714 | 🐛 0 | 🌐 Python | 📅 2026-01-13 – Monte Carlo tree search, a heuristic search algorithm frequently used in games.
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl) ⭐ 709 | 🐛 5 | 🌐 Perl | 📅 2024-08-07
-* [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) ⭐ 702 | 🐛 12 | 📅 2024-11-11 – Pokémon & Pokémon Go
+* [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) ⭐ 702 | 🐛 13 | 📅 2024-11-11 – Pokémon & Pokémon Go
 * [awesome-gif](https://github.com/davisonio/awesome-gif) ⭐ 697 | 🐛 4 | 📅 2026-05-17 – GIF software resources
   * <https://davison.io/awesome-gif>
 * [awesome-github](https://github.com/Kikobeats/awesome-github) ⭐ 696 | 🐛 3 | 📅 2021-02-13 by @Kikobeats – GitHub secrets and goodies.
@@ -1202,7 +1202,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-saltstack](https://github.com/hbokh/awesome-saltstack) ⚠️ Archived – [SaltStack](https://www.saltstack.com/) configuration management
 * [awesome-github](https://github.com/fffaraz/awesome-github) ⭐ 542 | 🐛 7 | 📅 2026-03-20 by @fffaraz – Git and GitHub references.
 * [awesome-mesos](https://github.com/dharmeshkakadia/awesome-mesos) ⭐ 536 | 🐛 1 | 📅 2021-01-04 by @dharmeshkakadia
-* [awesome-devtools](https://github.com/moimikey/awesome-devtools) ⭐ 535 | 🐛 31 | 📅 2026-07-27 – In-browser bookmarklets, tools, and resources for front-end devs.
+* [awesome-devtools](https://github.com/moimikey/awesome-devtools) ⭐ 535 | 🐛 32 | 📅 2026-07-27 – In-browser bookmarklets, tools, and resources for front-end devs.
 * [awesome-svelte](https://github.com/CalvinWalzel/awesome-svelte) ⭐ 535 | 🐛 27 | 📅 2020-04-20 – [Svelte](https://svelte.dev/) framework
 * [awesome-discord](https://github.com/jacc/awesome-discord) ⭐ 533 | 🐛 23 | 📅 2026-05-11 by @jacc – Discord chat and VoIP application.
 * [awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) ⭐ 533 | 🐛 3 | 📅 2025-12-29 – Programmers and software-related Patreon accounts.
@@ -1247,10 +1247,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) ⭐ 403 | 🐛 5 | 📅 2026-08-22 by @planetopendata
 * [awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB) ⭐ 401 | 🐛 4 | 📅 2025-04-29
 * [awesome-polymer](https://github.com/Granze/awesome-polymer) ⭐ 401 | 🐛 0 | 📅 2018-03-21 – [Polymer Project](https://www.polymer-project.org/)
-* [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) ⭐ 399 | 🐛 6 | 📅 2026-03-03
+* [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) ⭐ 400 | 🐛 6 | 📅 2026-03-03
 * [Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) ⭐ 399 | 🐛 4 | 🌐 PHP | 📅 2022-09-03 *In English and Chinese* – Laravel PHP framework learning resources.
 * [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) ⭐ 396 | 🐛 2 | 📅 2026-06-20 – Applications built with Common Lisp
-* [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) ⭐ 394 | 🐛 9 | 📅 2026-01-02 – [LNURL](https://github.com/lnurl/luds) ⭐ 669 | 🐛 35 | 🌐 Makefile | 📅 2026-08-14 (Lightning Network protocols)
+* [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) ⭐ 394 | 🐛 9 | 📅 2026-01-02 – [LNURL](https://github.com/lnurl/luds) ⭐ 669 | 🐛 35 | 🌐 Makefile | 📅 2026-08-25 (Lightning Network protocols)
 * [awesome-redux](https://github.com/brillout/awesome-redux) ⭐ 394 | 🐛 3 | 📅 2018-12-20 by @brillout – Redux Libraries & Learning Material
   * <https://devarchy.com/redux>
 * [awesome-h2o](https://github.com/h2oai/awesome-h2o) ⭐ 393 | 🐛 1 | 📅 2023-05-18 – H2O Machine Learning
@@ -1312,9 +1312,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-food](https://github.com/jzarca01/awesome-food) ⭐ 247 | 🐛 9 | 📅 2026-03-17 – Food related software projects
 * [awesome-legacy-code](https://github.com/legacycoderocks/awesome-legacy-code) ⭐ 246 | 🐛 1 | 📅 2025-05-17 – Legacy systems with publicly available source code
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) ⭐ 241 | 🐛 5 | 📅 2024-05-29 – Persian/Farsi supporting tools, fonts, and development resources.
+* [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) ⭐ 241 | 🐛 5 | 📅 2026-08-20 – Twitter research: tools, libraries, papers, browser extensions, datasets, and public lists.
 * [awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning) ⭐ 240 | 🐛 1 | 📅 2023-10-04
 * [awesome-pure-css-no-javascript](https://github.com/Zhangjd/awesome-pure-css-no-javascript) ⭐ 240 | 🐛 1 | 📅 2016-04-30 *In Chinese*
-* [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) ⭐ 240 | 🐛 5 | 📅 2026-08-20 – Twitter research: tools, libraries, papers, browser extensions, datasets, and public lists.
 * [awesome-ast](https://github.com/cowchimp/awesome-ast) ⭐ 238 | 🐛 0 | 📅 2020-05-18 by @cowchimp – Abstract Syntax Trees.
 * [awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov) ⭐ 237 | 🐛 0 | 📅 2022-09-15 – Delightfully amusing and facetious Markov chain output.
 * [awesome-hasura](https://github.com/aaronhayes/awesome-hasura) ⭐ 230 | 🐛 0 | 📅 2022-10-24 – [Hasura](https://hasura.io/) is an instant realtime GraphQL engine for PostgreSQL.
@@ -1323,16 +1323,16 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-django-cms](https://github.com/mishbahr/awesome-django-cms) ⚠️ Archived – django CMS add-ons.
 * [awesome-kafka](https://github.com/monksy/awesome-kafka) ⭐ 216 | 🐛 1 | 📅 2026-05-13 – [Apache Kafka](http://kafka.apache.org/), distributed streaming platform
 * [awesome-celery](https://github.com/svfat/awesome-celery) ⭐ 215 | 🐛 2 | 📅 2024-05-09 – [Celery](https://docs.celeryq.dev/) task queue.
-* [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) ⭐ 214 | 🐛 20 | 📅 2025-09-02 – Tools and resources for educators and virtual teachers.
+* [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) ⭐ 214 | 🐛 21 | 📅 2025-09-02 – Tools and resources for educators and virtual teachers.
 * [Awesome-Vision-Pro](https://github.com/jtmuller5/Awesome-Vision-Pro) ⭐ 212 | 🐛 5 | 📅 2024-08-13 – Apple Vision Pro.
 * [awesome-homematic](https://github.com/homematic-community/awesome-homematic) ⭐ 211 | 🐛 1 | 📅 2023-05-11 – [HomeMatic](https://www.homematic.com/) home automation
 * [awesome-dev-discord](https://github.com/ljosberinn/awesome-dev-discord) ⭐ 205 | 🐛 0 | 📅 2025-09-15 – Official, development-related Discord servers.
   * <https://dev-discords.now.sh/>
+* [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) ⭐ 205 | 🐛 3 | 📅 2018-04-23 – Twitter accounts, organised by programming communities.
 * [awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) ⭐ 205 | 🐛 3 | 📅 2021-03-23 – Plain—‘Vanilla’—JavaScript
 * [awesome-blockchain](https://github.com/coderplex-org/awesome-blockchain) ⭐ 204 | 🐛 4 | 📅 2020-10-20 by @coderplex-org – Blockchain, Bitcoin and Ethereum related resources
 * [awesome-ember](https://github.com/ember-community-russia/awesome-ember) ⭐ 204 | 🐛 4 | 📅 2024-07-30 by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
 * [awesome-matrix](https://github.com/jryans/awesome-matrix) ⭐ 204 | 🐛 1 | 📅 2026-08-04 by @jryans – [matrix.org](https://matrix.org/) ecosystem.
-* [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) ⭐ 204 | 🐛 3 | 📅 2018-04-23 – Twitter accounts, organised by programming communities.
 * [awesome-choo](https://github.com/choojs/awesome-choo) ⭐ 203 | 🐛 3 | 📅 2019-12-19 – [choo](https://choo.io/) web framework
 * [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) ⭐ 201 | 🐛 0 | 📅 2026-05-12 *In Chinese* – Low code / no code projects
 * [awesome-ripple](https://github.com/vhpoet/awesome-ripple) ⭐ 200 | 🐛 2 | 📅 2021-07-02 – [Ripple](https://ripple.com/) cryptocurrency
@@ -1367,7 +1367,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) ⭐ 163 | 🐛 0 | 🌐 Makefile | 📅 2017-07-21 – DTrace books, articles, videos, tools and resources.
   * <https://awesome-dtrace.com>
 * [awesome-mac](https://github.com/xyNNN/awesome-mac) ⭐ 163 | 🐛 2 | 📅 2026-08-02 by @xyNNN – macOS tools, applications and games.
-* [awesome-ccxt](https://github.com/suenot/awesome-ccxt) ⭐ 161 | 🐛 2 | 📅 2026-08-17 – [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt) ⭐ 43,734 | 🐛 815 | 🌐 Python | 📅 2026-08-24
+* [awesome-ccxt](https://github.com/suenot/awesome-ccxt) ⭐ 161 | 🐛 2 | 📅 2026-08-17 – [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt) ⭐ 43,736 | 🐛 817 | 🌐 Python | 📅 2026-08-25
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) ⚠️ Archived by @matteocrippa
 * [awesome-open-science](https://github.com/silky/awesome-open-science) ⚠️ Archived
 * [awesome-apollo-graphql](https://github.com/ooade/awesome-apollo-graphql) ⭐ 156 | 🐛 2 | 📅 2021-05-13 – [Apollo GraphQL](https://www.apollographql.com/)
@@ -1386,7 +1386,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-challenges](https://github.com/mauriciovieira/awesome-challenges) ⭐ 134 | 🐛 0 | 📅 2022-02-01 – Algorithmic challenges
 * [awesome-ama-answers](https://github.com/stoeffel/awesome-ama-answers) ⭐ 132 | 🐛 3 | 📅 2020-03-17 – @stoeffel's AMA answers
 * [awesome-avr](https://github.com/fffaraz/awesome-avr) ⭐ 132 | 🐛 1 | 📅 2025-09-24
-* [awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) ⭐ 131 | 🐛 4 | 📅 2026-04-27
+* [awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) ⭐ 131 | 🐛 3 | 📅 2026-08-24
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) ⭐ 130 | 🐛 1 | 📅 2018-10-13 – Online and free JavaScript books.
 * [awesome-latam](https://github.com/gophers-latam/awesome-latam) ⭐ 130 | 🐛 0 | 📅 2024-10-21 *In Spanish* – Recursos en Español para desarrolladores de Golang.
   * <https://gophers-latam.github.io/>
@@ -1417,8 +1417,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   * <https://matthias-endler.de/awesome-static-analysis/>
 * [awesome-libra](https://github.com/learndapp/awesome-libra) ⭐ 101 | 🐛 0 | 📅 2020-06-22 by @learndapp – [Libra](https://libra.org/) cryptocurrency by Facebook
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) ⭐ 101 | 🐛 5 | 📅 2023-09-08 – Wikipedia-related frameworks, libraries, software, datasets and references.
+* [awesome-agents](https://github.com/Scottcjn/awesome-agents) ⭐ 99 | 🐛 17 | 📅 2026-08-10 – AI agents.
 * [awesome-browserify](https://github.com/browserify/awesome-browserify) ⭐ 99 | 🐛 0 | 📅 2017-01-04 – [Browserify](http://browserify.org/) bundler
-* [awesome-agents](https://github.com/Scottcjn/awesome-agents) ⭐ 98 | 🐛 17 | 📅 2026-08-10 – AI agents.
 * [awesome-cocoa](https://github.com/v-braun/awesome-cocoa) ⭐ 98 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-21 – Cocoa controls for iOS, watchOS and macOS
   * <http://cocoa.rocks>
 * [awesome-dojo](https://github.com/petk/awesome-dojo) ⭐ 98 | 🐛 0 | 📅 2020-09-25 – Dojo JavaScript Toolkit resources and libraries.
@@ -1441,7 +1441,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vhdl](https://github.com/VHDL/awesome-vhdl) ⚠️ Archived – VHDL hardware description language
 * [AwesomeInterpreter](https://github.com/BaseMax/AwesomeInterpreter) ⭐ 81 | 🐛 0 | 📅 2026-05-04 – Open-source code interpreters on GitHub.
 * [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience) ⭐ 80 | 🐛 6 | 📅 2025-05-07 by @prokopsimek
-* [awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) ⭐ 78 | 🐛 0 | 🌐 Nunjucks | 📅 2026-08-21 – [Eleventy (11ty)](https://www.11ty.dev/) static site generator.
+* [awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) ⭐ 79 | 🐛 0 | 🌐 Nunjucks | 📅 2026-08-21 – [Eleventy (11ty)](https://www.11ty.dev/) static site generator.
 * [awesome-mobile](https://github.com/alec-c4/awesome-mobile) ⭐ 77 | 🐛 3 | 📅 2026-08-03 – Instruments for mobile marketing and development
 * [awesome-typescript](https://github.com/ellerbrock/awesome-typescript) ⭐ 77 | 🐛 6 | 📅 2024-06-07 by @ellerbrock
   * <https://ellerbrock.github.io/awesome-typescript>
@@ -1581,11 +1581,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Lists of lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,602 | 🐛 106 | 📅 2026-08-21 – A curated list of awesome lists.
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 118,967 | 🐛 40 | 📅 2026-07-26 – Lists for hackers, pentesters and security researchers.
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,621 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 – A curated list of awesome awesomeness
-* [this one](https://github.com/jnv/lists) ⭐ 11,438 | 🐛 22 | 📅 2026-03-23
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,202 | 🐛 25 | 📅 2024-07-31 by @emijrp – A curated list of awesome curated lists of many topics.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,690 | 🐛 106 | 📅 2026-08-21 – A curated list of awesome lists.
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 118,988 | 🐛 40 | 📅 2026-07-26 – Lists for hackers, pentesters and security researchers.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 – A curated list of awesome awesomeness
+* [this one](https://github.com/jnv/lists) ⭐ 11,439 | 🐛 22 | 📅 2026-03-23
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,203 | 🐛 25 | 📅 2024-07-31 by @emijrp – A curated list of awesome curated lists of many topics.
 * [awesome-awesomeness-zh\_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) ⭐ 1,395 | 🐛 5 | 🌐 JavaScript | 📅 2016-04-18 *In Chinese* – 中文版awesome list 系列文章
 * [getAwesomeness](https://github.com/panzhangwang/getAwesomeness) ⭐ 1,097 | 🐛 2 | 🌐 JavaScript | 📅 2021-05-31 – Explorer designed for curated awesome list hosted on Github
   * <https://getawesomeness.herokuapp.com/>
@@ -1593,18 +1593,18 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [curated-lists](https://github.com/learn-anything/curated-lists) ⭐ 943 | 🐛 2 | 📅 2023-11-13
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) ⭐ 605 | 🐛 3 | 📅 2023-11-13 – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [awesome-lists](https://github.com/szabgab/awesome-lists) ⭐ 451 | 🐛 0 | 🌐 Perl | 📅 2026-07-29 by @szabgab – Another curated list of curated lists.
-* [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) ⭐ 389 | 🐛 0 | 🌐 Python | 📅 2020-07-06 – List of github lists
-* [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 293 | 🐛 3 | 📅 2023-11-13 by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
+* [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) ⭐ 390 | 🐛 0 | 🌐 Python | 📅 2020-07-06 – List of github lists
+* [awesome-awesome](https://github.com/erichs/awesome-awesome) ⭐ 294 | 🐛 3 | 📅 2023-11-13 by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-all](https://github.com/bradoyler/awesome-all) ⭐ 236 | 🐛 1 | 🌐 HTML | 📅 2024-10-16 – A curated list of awesome lists of awesome frameworks, libraries and software
 * [awesome-lists](https://github.com/cuuupid/awesome-lists) ⚠️ Archived by @cuuupid – A curated list of curated lists.
 * [awesome-lists](https://github.com/pshah123/awesome-lists) ⚠️ Archived by @pshah123 – A curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists.
 * [awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) ⭐ 132 | 🐛 1 | 📅 2026-08-23 – An awesome list for collecting awesome lists related to prompt engineering.
 * [awesome-collection](https://github.com/flyhigher139/awesome-collection) ⭐ 132 | 🐛 0 | 📅 2017-04-18 – A list of awesome repos.
-* [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) ⭐ 126 | 🐛 1 | 📅 2021-02-27 by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
+* [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) ⭐ 127 | 🐛 1 | 📅 2021-02-27 by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
 * [more-awesome](https://github.com/0ex/more-awesome) ⭐ 111 | 🐛 8 | 🌐 Python | 📅 2023-01-15 – An extensive list of "awesome" lists to help you find resources and starting points on every topic.
 * [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness#awesomeness) ⭐ 97 | 🐛 0 | 📅 2018-06-06
 * [wiki](https://github.com/huguangju/wiki) ⚠️ Archived *In Chinese* – A curated list of awesome lists.
-* [list-of-lists](https://github.com/cyrusstoller/list-of-lists) ⭐ 40 | 🐛 0 | 📅 2014-12-30 – A meta list of lists of useful open source projects and developer tools.
+* [list-of-lists](https://github.com/cyrusstoller/list-of-lists) ⭐ 41 | 🐛 0 | 📅 2014-12-30 – A meta list of lists of useful open source projects and developer tools.
 * [must-watch-list](https://github.com/adrianmoisey/must-watch-list) ⭐ 29 | 🐛 0 | 📅 2021-10-30 – List of must-watch lists.
 * [awesome-awesome](https://github.com/aligoren/awesome-awesome) by @aligoren – List of GitHub Lists
 * [delightful](https://codeberg.org/teaserbot-labs/delightful) – Home of delightful curated lists of free software, open science and information sources.
@@ -1649,4 +1649,4 @@ Social preview photo by [Eli Francis](https://unsplash.com/@elifrancis?utm_sourc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
