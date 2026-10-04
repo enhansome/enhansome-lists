@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-17T01:56:08Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
             "stars": 53532,
@@ -44,7 +44,7 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2026-02-11T22:01:53Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "neutraltone",
             "repo": "awesome-stock-resources",
             "stars": 14577,
@@ -83,7 +83,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14331,
+            "stars": 14334,
             "topics": [
               "awesome",
               "awesome-list",
@@ -153,7 +153,7 @@
             "open_issues": 52,
             "owner": "dreamingechoes",
             "repo": "awesome-mental-health",
-            "stars": 3657,
+            "stars": 3660,
             "topics": [
               "awesome",
               "awesome-list",
@@ -240,7 +240,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-11T12:09:17Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "matteofigus",
             "repo": "awesome-speaking",
             "stars": 1990,
@@ -303,7 +303,7 @@
             "open_issues": 0,
             "owner": "RichardLitt",
             "repo": "awesome-fantasy",
-            "stars": 1579,
+            "stars": 1580,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1492,7 +1492,7 @@
             "open_issues": 0,
             "owner": "andressoop",
             "repo": "global-reports",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "list",
               "non-tech",
@@ -1856,10 +1856,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 666,
+            "open_issues": 667,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 551247,
+            "stars": 551386,
             "topics": [
               "awesome-list",
               "free",
@@ -1883,11 +1883,11 @@
             "id": 54346799,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:24:14Z",
-            "open_issues": 1989,
+            "last_commit": "2026-10-03T20:19:09Z",
+            "open_issues": 2012,
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 485597,
+            "stars": 485853,
             "topics": [
               "api",
               "apis",
@@ -1918,11 +1918,11 @@
             "id": 28457823,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T22:23:14Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-03T23:11:26Z",
+            "open_issues": 189,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 456660,
+            "stars": 456706,
             "topics": [
               "careers",
               "certification",
@@ -1956,10 +1956,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-02T19:35:16Z",
-            "open_issues": 85,
+            "open_issues": 89,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398351,
+            "stars": 398415,
             "topics": [
               "books",
               "education",
@@ -1983,10 +1983,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T07:15:21Z",
-            "open_issues": 260,
+            "open_issues": 259,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 285662,
+            "stars": 285740,
             "topics": [
               "beginner-project",
               "cpp",
@@ -2013,10 +2013,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-11-19T14:00:38Z",
-            "open_issues": 172,
+            "open_issues": 171,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 247534,
+            "stars": 247684,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2054,10 +2054,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209701,
+            "stars": 209723,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -2080,10 +2080,10 @@
             "language": "TypeScript",
             "license": "Unlicense",
             "last_commit": "2026-10-03T00:17:48Z",
-            "open_issues": 70,
+            "open_issues": 232,
             "owner": "iptv-org",
             "repo": "iptv",
-            "stars": 140156,
+            "stars": 140232,
             "topics": [
               "iptv",
               "m3u",
@@ -2106,11 +2106,11 @@
             "id": 32484381,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-02T19:43:27Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-03T15:36:19Z",
+            "open_issues": 15,
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 139094,
+            "stars": 139122,
             "topics": [
               "awesome-list",
               "free-for-developers"
@@ -2134,7 +2134,7 @@
             "open_issues": 0,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 129308,
+            "stars": 129312,
             "topics": [
               "astro",
               "awesome-list",
@@ -2169,7 +2169,7 @@
             "open_issues": 5,
             "owner": "justjavac",
             "repo": "free-programming-books-zh_CN",
-            "stars": 119208,
+            "stars": 119221,
             "topics": [
               "android",
               "angular",
@@ -2205,7 +2205,7 @@
             "open_issues": 4,
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 110189,
+            "stars": 110215,
             "topics": [
               "awesome",
               "computer-science",
@@ -2261,7 +2261,7 @@
             "open_issues": 603,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97918,
+            "stars": 97927,
             "topics": [
               "applications",
               "coding",
@@ -2292,7 +2292,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83600,
+            "stars": 83603,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -2332,7 +2332,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81426,
+            "stars": 81442,
             "topics": [
               "bounty",
               "bugbounty",
@@ -2395,11 +2395,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:19:08Z",
+            "last_commit": "2026-10-03T11:38:31Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73917,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -2420,7 +2420,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65264,
+            "stars": 65260,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -2462,7 +2462,7 @@
             "open_issues": 64,
             "owner": "xingshaocheng",
             "repo": "architect-awesome",
-            "stars": 60854,
+            "stars": 60855,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -2540,7 +2540,7 @@
             "open_issues": 49,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59418,
+            "stars": 59436,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2563,11 +2563,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T17:00:50Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T18:07:17Z",
+            "open_issues": 3,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52392,
+            "stars": 52398,
             "topics": [
               "app",
               "apple",
@@ -2609,7 +2609,7 @@
             "open_issues": 10,
             "owner": "poteto",
             "repo": "hiring-without-whiteboards",
-            "stars": 52313,
+            "stars": 52325,
             "topics": [
               "airtable",
               "hiring",
@@ -2638,7 +2638,7 @@
             "open_issues": 11,
             "owner": "charlax",
             "repo": "professional-programming",
-            "stars": 51593,
+            "stars": 51598,
             "topics": [
               "architecture",
               "computer-science",
@@ -2670,10 +2670,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-10T08:05:13Z",
-            "open_issues": 357,
+            "open_issues": 358,
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50620,
+            "stars": 50627,
             "topics": [
               "applications",
               "apps",
@@ -2734,7 +2734,7 @@
             "open_issues": 108,
             "owner": "minimaxir",
             "repo": "big-list-of-naughty-strings",
-            "stars": 47725,
+            "stars": 47726,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -2755,7 +2755,7 @@
             "open_issues": 135,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47585,
+            "stars": 47587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2781,7 +2781,7 @@
             "open_issues": 11,
             "owner": "remoteintech",
             "repo": "remote-jobs",
-            "stars": 40876,
+            "stars": 40877,
             "topics": [
               "distributed-companies",
               "hacktoberfest",
@@ -2812,7 +2812,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38730,
+            "stars": 38735,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -2839,7 +2839,7 @@
             "open_issues": 41,
             "owner": "GorvGoyl",
             "repo": "Clone-Wars",
-            "stars": 36959,
+            "stars": 36966,
             "topics": [
               "airbnb",
               "clone",
@@ -2870,7 +2870,7 @@
             "open_issues": 33,
             "owner": "Trinea",
             "repo": "android-open-project",
-            "stars": 31804,
+            "stars": 31806,
             "topics": [
               "android",
               "open-source-project"
@@ -2894,7 +2894,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30479,
+            "stars": 30487,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -2963,7 +2963,7 @@
             "open_issues": 23,
             "owner": "viraptor",
             "repo": "reverse-interview",
-            "stars": 28604,
+            "stars": 28605,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -2984,7 +2984,7 @@
             "open_issues": 65,
             "owner": "tmrts",
             "repo": "go-patterns",
-            "stars": 28259,
+            "stars": 28262,
             "topics": [
               "awesome",
               "design-patterns",
@@ -3013,7 +3013,7 @@
             "open_issues": 153,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27303,
+            "stars": 27304,
             "topics": [
               "coding",
               "computerscience",
@@ -3039,7 +3039,7 @@
             "open_issues": 42,
             "owner": "datasciencemasters",
             "repo": "go",
-            "stars": 26302,
+            "stars": 26304,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -3088,7 +3088,7 @@
             "open_issues": 42,
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22441,
+            "stars": 22447,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3119,8 +3119,8 @@
             "id": 39122628,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T02:08:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T13:10:18Z",
+            "open_issues": 5,
             "owner": "git-tips",
             "repo": "tips",
             "stars": 21728,
@@ -3148,7 +3148,7 @@
             "open_issues": 52,
             "owner": "Awesome-HarmonyOS",
             "repo": "HarmonyOS",
-            "stars": 19977,
+            "stars": 19979,
             "topics": [
               "architecture",
               "awesome",
@@ -3179,7 +3179,7 @@
             "open_issues": 0,
             "owner": "dariubs",
             "repo": "GoBooks",
-            "stars": 19702,
+            "stars": 19706,
             "topics": [
               "awesome",
               "awesome-go",
@@ -3218,7 +3218,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "quick-look-plugins",
-            "stars": 18772,
+            "stars": 18771,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -3239,7 +3239,7 @@
             "open_issues": 43,
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18336,
+            "stars": 18338,
             "topics": [
               "learning",
               "learning-by-doing",
@@ -3267,7 +3267,7 @@
             "open_issues": 49,
             "owner": "ujjwalkarn",
             "repo": "Machine-Learning-Tutorials",
-            "stars": 18241,
+            "stars": 18246,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3300,7 +3300,7 @@
             "open_issues": 13,
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 18009,
+            "stars": 18010,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3333,7 +3333,7 @@
             "open_issues": 15,
             "owner": "JacksonTian",
             "repo": "fks",
-            "stars": 17913,
+            "stars": 17914,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -3376,10 +3376,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-26T13:55:50Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17407,
+            "stars": 17415,
             "topics": [
               "art",
               "awesome",
@@ -3435,10 +3435,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-14T07:19:57Z",
-            "open_issues": 59,
+            "open_issues": 65,
             "owner": "public-api-lists",
             "repo": "public-api-lists",
-            "stars": 15976,
+            "stars": 15983,
             "topics": [
               "api",
               "api-list",
@@ -3570,7 +3570,7 @@
             "open_issues": 23,
             "owner": "jbranchaud",
             "repo": "til",
-            "stars": 14152,
+            "stars": 14153,
             "topics": [
               "learn-in-public",
               "til",
@@ -3596,7 +3596,7 @@
             "open_issues": 17,
             "owner": "tuteng",
             "repo": "Best-websites-a-programmer-should-visit-zh",
-            "stars": 13726,
+            "stars": 13727,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -3617,7 +3617,7 @@
             "open_issues": 1,
             "owner": "bolshchikov",
             "repo": "js-must-watch",
-            "stars": 13621,
+            "stars": 13622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3645,7 +3645,7 @@
             "open_issues": 55,
             "owner": "alexandresanlim",
             "repo": "Badges4-README.md-Profile",
-            "stars": 13494,
+            "stars": 13502,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3799,7 +3799,7 @@
             "open_issues": 9,
             "owner": "danluu",
             "repo": "post-mortems",
-            "stars": 12501,
+            "stars": 12505,
             "topics": [
               "debugging",
               "hacktoberfest",
@@ -3824,7 +3824,7 @@
             "open_issues": 1,
             "owner": "255kb",
             "repo": "stack-on-a-budget",
-            "stars": 12451,
+            "stars": 12453,
             "topics": [
               "free",
               "list",
@@ -3876,7 +3876,7 @@
             "open_issues": 243,
             "owner": "adambard",
             "repo": "learnxinyminutes-docs",
-            "stars": 12354,
+            "stars": 12355,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -3926,11 +3926,11 @@
             "id": 394102612,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-02T14:12:15Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-03T17:31:10Z",
+            "open_issues": 28,
             "owner": "fmhy",
             "repo": "edit",
-            "stars": 12173,
+            "stars": 12198,
             "topics": [
               "fmhy",
               "freemediaheckyeah"
@@ -4087,7 +4087,7 @@
             "open_issues": 3,
             "owner": "pcqpcq",
             "repo": "open-source-android-apps",
-            "stars": 10517,
+            "stars": 10519,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -4133,7 +4133,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9723,
+            "stars": 9726,
             "topics": [
               "android",
               "awesome",
@@ -4183,7 +4183,7 @@
             "open_issues": 3,
             "owner": "matheusfelipeog",
             "repo": "beautiful-docs",
-            "stars": 9538,
+            "stars": 9539,
             "topics": [
               "beautiful",
               "beautiful-docs",
@@ -4214,7 +4214,7 @@
             "open_issues": 11,
             "owner": "toniblyx",
             "repo": "my-arsenal-of-aws-security-tools",
-            "stars": 9514,
+            "stars": 9515,
             "topics": [
               "auditing",
               "aws-infrastructure",
@@ -4268,7 +4268,7 @@
             "open_issues": 112,
             "owner": "mendel5",
             "repo": "alternative-front-ends",
-            "stars": 9187,
+            "stars": 9188,
             "topics": [
               "adblock",
               "alternative",
@@ -4329,10 +4329,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-08-27T10:58:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8717,
+            "stars": 8718,
             "topics": [
               "cpp",
               "csharp",
@@ -4397,8 +4397,8 @@
             "id": 21295365,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-03T03:59:52Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-03T17:58:45Z",
+            "open_issues": 5,
             "owner": "inferjay",
             "repo": "AndroidDevTools",
             "stars": 8061,
@@ -4430,7 +4430,7 @@
             "open_issues": 13,
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8029,
+            "stars": 8030,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -4520,10 +4520,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-29T14:08:02Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "mmccaff",
             "repo": "PlacesToPostYourStartup",
-            "stars": 7746,
+            "stars": 7762,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4572,7 +4572,7 @@
             "open_issues": 1,
             "owner": "arslanbilal",
             "repo": "git-cheat-sheet",
-            "stars": 7463,
+            "stars": 7464,
             "topics": [
               "cheatsheet",
               "git",
@@ -4788,7 +4788,7 @@
             "open_issues": 2,
             "owner": "yaelwrites",
             "repo": "Big-Ass-Data-Broker-Opt-Out-List",
-            "stars": 6898,
+            "stars": 6900,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -4832,7 +4832,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-10-12T07:30:27Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "dhamaniasad",
             "repo": "HeadlessBrowsers",
             "stars": 6701,
@@ -4989,7 +4989,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5824,
+            "stars": 5825,
             "topics": [
               "data-science",
               "data-scientists",
@@ -5151,10 +5151,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-14T20:05:49Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "karlhorky",
             "repo": "learn-to-program",
-            "stars": 4958,
+            "stars": 4959,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -5207,7 +5207,7 @@
             "open_issues": 31,
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4814,
+            "stars": 4815,
             "topics": [
               "digital-garden",
               "digital-gardening",
@@ -5263,7 +5263,7 @@
             "open_issues": 0,
             "owner": "r0f1",
             "repo": "datascience",
-            "stars": 4678,
+            "stars": 4677,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -5358,7 +5358,7 @@
             "open_issues": 17,
             "owner": "ProductHired",
             "repo": "open-product-management",
-            "stars": 4480,
+            "stars": 4482,
             "topics": [
               "management",
               "product",
@@ -5681,7 +5681,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "nginx-resources",
-            "stars": 3820,
+            "stars": 3823,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5730,7 +5730,7 @@
             "open_issues": 4,
             "owner": "kbandla",
             "repo": "APTnotes",
-            "stars": 3671,
+            "stars": 3670,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -5805,7 +5805,7 @@
             "open_issues": 7,
             "owner": "mrcodedev",
             "repo": "frontend-developer-resources",
-            "stars": 3532,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -5970,7 +5970,7 @@
             "open_issues": 0,
             "owner": "tallesl",
             "repo": "Rich-Hickey-fanclub",
-            "stars": 3168,
+            "stars": 3167,
             "topics": [
               "clojure",
               "functional-programming",
@@ -6012,7 +6012,7 @@
             "id": 75543530,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:24:09Z",
+            "last_commit": "2026-10-03T12:44:20Z",
             "open_issues": 63,
             "owner": "duffn",
             "repo": "dumb-password-rules",
@@ -6081,7 +6081,7 @@
             "open_issues": 36,
             "owner": "marcobiedermann",
             "repo": "search-engine-optimization",
-            "stars": 2786,
+            "stars": 2785,
             "topics": [
               "awesome",
               "awesome-list",
@@ -6167,7 +6167,7 @@
             "open_issues": 5,
             "owner": "jozefg",
             "repo": "learn-tt",
-            "stars": 2501,
+            "stars": 2502,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -6242,8 +6242,8 @@
             "id": 179930320,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-04-03T09:53:57Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-03T19:22:58Z",
+            "open_issues": 3,
             "owner": "dbohdan",
             "repo": "classless-css",
             "stars": 2378,
@@ -6568,8 +6568,8 @@
             "id": 91165678,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:57:27Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-03T11:12:16Z",
+            "open_issues": 32,
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
             "stars": 2004,
@@ -6623,8 +6623,8 @@
             "id": 41890778,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-07-27T00:43:11Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T06:40:55Z",
+            "open_issues": 7,
             "owner": "remote-jp",
             "repo": "remote-in-japan",
             "stars": 1990,
@@ -6809,7 +6809,7 @@
             "open_issues": 8,
             "owner": "enjalot",
             "repo": "algovis",
-            "stars": 1770,
+            "stars": 1769,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -7070,33 +7070,6 @@
         },
         {
           "node_type": "item",
-          "title": "embedded-scripting-languages",
-          "description": "dbohdan/embedded-scripting-languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A list of embedded scripting languages",
-            "homepage": "http://dbohdan.github.io/embedded-scripting-languages/",
-            "id": 59005281,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-21T22:03:58Z",
-            "open_issues": 5,
-            "owner": "dbohdan",
-            "repo": "embedded-scripting-languages",
-            "stars": 1508,
-            "topics": [
-              "embedded-scripting-language",
-              "interpreters",
-              "list",
-              "scripting",
-              "scripting-language"
-            ]
-          },
-          "first_seen": "2026-08-28T05:36:13.916Z"
-        },
-        {
-          "node_type": "item",
           "title": "discord-open-source",
           "description": "Open source communities living on Discord.",
           "children": [],
@@ -7113,6 +7086,33 @@
             "repo": "discord-open-source",
             "stars": 1506,
             "topics": []
+          },
+          "first_seen": "2026-08-28T05:36:13.916Z"
+        },
+        {
+          "node_type": "item",
+          "title": "embedded-scripting-languages",
+          "description": "dbohdan/embedded-scripting-languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A list of embedded scripting languages",
+            "homepage": "http://dbohdan.github.io/embedded-scripting-languages/",
+            "id": 59005281,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-21T22:03:58Z",
+            "open_issues": 5,
+            "owner": "dbohdan",
+            "repo": "embedded-scripting-languages",
+            "stars": 1506,
+            "topics": [
+              "embedded-scripting-language",
+              "interpreters",
+              "list",
+              "scripting",
+              "scripting-language"
+            ]
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
         },
@@ -7217,7 +7217,7 @@
             "id": 151646552,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-10-03T03:18:33Z",
+            "last_commit": "2026-10-03T04:59:43Z",
             "open_issues": 2,
             "owner": "crweiner",
             "repo": "hacktoberfest-swag-list",
@@ -7385,7 +7385,7 @@
             "open_issues": 50,
             "owner": "basings",
             "repo": "selfhosted-music-overview",
-            "stars": 1303,
+            "stars": 1302,
             "topics": [
               "cloud",
               "hosting",
@@ -7622,7 +7622,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-21T01:01:28Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "leomaurodesenv",
             "repo": "game-datasets",
             "stars": 1129,
@@ -7703,27 +7703,6 @@
         },
         {
           "node_type": "item",
-          "title": "sublime",
-          "description": "Some of the best Sublime Text packages, themes, and goodies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of some of the best Sublime Text packages, themes, and goodies.",
-            "homepage": null,
-            "id": 25137870,
-            "language": null,
-            "license": null,
-            "last_commit": "2020-11-01T13:55:39Z",
-            "open_issues": 6,
-            "owner": "JaredCubilla",
-            "repo": "sublime",
-            "stars": 1068,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:36:13.916Z"
-        },
-        {
-          "node_type": "item",
           "title": "toolsforactivism",
           "description": "Digital tools for activism",
           "children": [],
@@ -7739,6 +7718,27 @@
             "owner": "drewrwilson",
             "repo": "toolsforactivism",
             "stars": 1068,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:36:13.916Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sublime",
+          "description": "Some of the best Sublime Text packages, themes, and goodies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of some of the best Sublime Text packages, themes, and goodies.",
+            "homepage": null,
+            "id": 25137870,
+            "language": null,
+            "license": null,
+            "last_commit": "2020-11-01T13:55:39Z",
+            "open_issues": 6,
+            "owner": "JaredCubilla",
+            "repo": "sublime",
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -7811,7 +7811,7 @@
             "open_issues": 12,
             "owner": "alilleybrinker",
             "repo": "langs-in-rust",
-            "stars": 1034,
+            "stars": 1035,
             "topics": [
               "programming-language",
               "rust"
@@ -7975,7 +7975,7 @@
             "open_issues": 3,
             "owner": "fliptheweb",
             "repo": "motion-ui-design",
-            "stars": 932,
+            "stars": 933,
             "topics": [
               "animation",
               "awesome",
@@ -8073,6 +8073,35 @@
         },
         {
           "node_type": "item",
+          "title": "macos-apps",
+          "description": "linsa-io/macos-apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Awesome macOS apps",
+            "homepage": null,
+            "id": 93969351,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-09T07:19:36Z",
+            "open_issues": 88,
+            "owner": "linsa-io",
+            "repo": "macos-apps",
+            "stars": 841,
+            "topics": [
+              "apps",
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "macos",
+              "macos-app",
+              "macos-apps"
+            ]
+          },
+          "first_seen": "2026-08-28T05:36:13.916Z"
+        },
+        {
+          "node_type": "item",
           "title": "python-github-projects",
           "description": "Collect and classify python projects on Github.",
           "children": [],
@@ -8094,35 +8123,6 @@
         },
         {
           "node_type": "item",
-          "title": "macos-apps",
-          "description": "linsa-io/macos-apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome macOS apps",
-            "homepage": null,
-            "id": 93969351,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 87,
-            "owner": "linsa-io",
-            "repo": "macos-apps",
-            "stars": 840,
-            "topics": [
-              "apps",
-              "awesome",
-              "awesome-list",
-              "curated-list",
-              "macos",
-              "macos-app",
-              "macos-apps"
-            ]
-          },
-          "first_seen": "2026-08-28T05:36:13.916Z"
-        },
-        {
-          "node_type": "item",
           "title": "net-libraries-that-make-your-life-easier",
           "description": "Open Source .NET libraries that make your life easier.",
           "children": [],
@@ -8137,7 +8137,7 @@
             "open_issues": 1,
             "owner": "tallesl",
             "repo": "net-libraries-that-make-your-life-easier",
-            "stars": 828,
+            "stars": 829,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -8256,7 +8256,7 @@
             "open_issues": 22,
             "owner": "ahadb",
             "repo": "flat-file-cms",
-            "stars": 729,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -9489,7 +9489,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-23T08:58:55Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "tools-collection",
             "repo": "apis-collection",
             "stars": 258,
@@ -11954,10 +11954,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324781,
+                "stars": 324947,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -11985,7 +11985,7 @@
                 "open_issues": 0,
                 "owner": "awesome-selfhosted",
                 "repo": "awesome-selfhosted",
-                "stars": 323480,
+                "stars": 323668,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12011,11 +12011,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:11:10Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-03T22:23:27Z",
+                "open_issues": 84,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186649,
+                "stars": 186768,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12039,11 +12039,11 @@
                 "id": 574523116,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T09:59:16Z",
-                "open_issues": 84,
+                "last_commit": "2026-10-03T08:12:28Z",
+                "open_issues": 85,
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 171879,
+                "stars": 171947,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -12079,11 +12079,11 @@
                 "id": 63539055,
                 "language": "Swift",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-03T04:26:43Z",
-                "open_issues": 1080,
+                "last_commit": "2026-10-03T17:45:41Z",
+                "open_issues": 1091,
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 115304,
+                "stars": 115345,
                 "topics": [
                   "app",
                   "apple",
@@ -12125,7 +12125,7 @@
                 "open_issues": 144,
                 "owner": "MunGell",
                 "repo": "awesome-for-beginners",
-                "stars": 89807,
+                "stars": 89834,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12152,7 +12152,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84771,
+                "stars": 84782,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -12190,7 +12190,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-02T19:45:43Z",
-                    "open_issues": 37,
+                    "open_issues": 45,
                     "owner": "awesomedata",
                     "repo": "apd-core",
                     "stars": 408,
@@ -12215,7 +12215,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79277,
+                "stars": 79292,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -12238,10 +12238,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-04T01:13:20Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74782,
+                "stars": 74792,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12270,10 +12270,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T16:49:00Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74511,
+                "stars": 74515,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -12294,7 +12294,7 @@
                 "open_issues": 30,
                 "owner": "binhnguyennus",
                 "repo": "awesome-scalability",
-                "stars": 74492,
+                "stars": 74503,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -12336,7 +12336,7 @@
                 "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73584,
+                "stars": 73596,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12370,7 +12370,7 @@
                 "open_issues": 82,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73538,
+                "stars": 73536,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -12391,7 +12391,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71549,
+                "stars": 71567,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12417,7 +12417,7 @@
                 "open_issues": 24,
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66985,
+                "stars": 66995,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12445,7 +12445,7 @@
                 "open_issues": 38,
                 "owner": "Solido",
                 "repo": "awesome-flutter",
-                "stars": 61396,
+                "stars": 61406,
                 "topics": [
                   "android",
                   "awesome",
@@ -12481,11 +12481,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-01T21:08:44Z",
+                "last_commit": "2026-10-03T15:49:08Z",
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59657,
+                "stars": 59666,
                 "topics": [
                   "awesome",
                   "rust"
@@ -12509,7 +12509,7 @@
                 "open_issues": 41,
                 "owner": "wasabeef",
                 "repo": "awesome-android-ui",
-                "stars": 57805,
+                "stars": 57814,
                 "topics": [
                   "android",
                   "awesome",
@@ -12534,7 +12534,7 @@
                 "open_issues": 27,
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53502,
+                "stars": 53511,
                 "topics": [
                   "apple-swift",
                   "arkit",
@@ -12597,7 +12597,7 @@
                 "open_issues": 27,
                 "owner": "DovAmir",
                 "repo": "awesome-design-patterns",
-                "stars": 49179,
+                "stars": 49190,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -12625,10 +12625,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-21T15:00:51Z",
-                "open_issues": 110,
+                "open_issues": 112,
                 "owner": "lukasz-madon",
                 "repo": "awesome-remote-job",
-                "stars": 49171,
+                "stars": 49187,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12650,10 +12650,10 @@
                 "language": null,
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-09-23T10:50:49Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 49144,
+                "stars": 49149,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -12677,7 +12677,7 @@
                 "open_issues": 98,
                 "owner": "brillout",
                 "repo": "awesome-react-components",
-                "stars": 48537,
+                "stars": 48545,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12701,10 +12701,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-07-28T19:57:31Z",
-                "open_issues": 211,
+                "open_issues": 213,
                 "owner": "goabstract",
                 "repo": "Awesome-Design-Tools",
-                "stars": 41378,
+                "stars": 41385,
                 "topics": [
                   "animations",
                   "awesome",
@@ -12734,7 +12734,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37708,
+                "stars": 37716,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12761,10 +12761,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T05:20:29Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36949,
+                "stars": 36959,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12804,7 +12804,7 @@
                 "open_issues": 25,
                 "owner": "jondot",
                 "repo": "awesome-react-native",
-                "stars": 35711,
+                "stars": 35712,
                 "topics": [
                   "awesome-list",
                   "mobile",
@@ -12866,7 +12866,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35319,
+                "stars": 35325,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12897,7 +12897,7 @@
                 "open_issues": 26,
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35032,
+                "stars": 35033,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -12918,7 +12918,7 @@
                 "open_issues": 94,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32722,
+                "stars": 32724,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -12947,7 +12947,7 @@
                 "open_issues": 0,
                 "owner": "herrbischoff",
                 "repo": "awesome-macos-command-line",
-                "stars": 30957,
+                "stars": 30958,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -12976,7 +12976,7 @@
                 "open_issues": 34,
                 "owner": "jobbole",
                 "repo": "awesome-python-cn",
-                "stars": 30627,
+                "stars": 30629,
                 "topics": [
                   "python"
                 ]
@@ -12996,10 +12996,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-02T20:20:58Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30103,
+                "stars": 30105,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -13031,7 +13031,7 @@
                 "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29876,
+                "stars": 29887,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -13053,10 +13053,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-21T09:36:55Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29092,
+                "stars": 29097,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13089,7 +13089,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29002,
+                "stars": 29005,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13117,10 +13117,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2024-09-01T20:32:39Z",
-                "open_issues": 328,
+                "open_issues": 327,
                 "owner": "sdras",
                 "repo": "awesome-actions",
-                "stars": 28282,
+                "stars": 28284,
                 "topics": [
                   "actions",
                   "actions-list",
@@ -13189,7 +13189,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 470,
+                "open_issues": 471,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
                 "stars": 27434,
@@ -13213,7 +13213,7 @@
                 "open_issues": 133,
                 "owner": "enaqx",
                 "repo": "awesome-pentest",
-                "stars": 27331,
+                "stars": 27334,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -13237,7 +13237,7 @@
                 "open_issues": 7,
                 "owner": "sindresorhus",
                 "repo": "awesome-electron",
-                "stars": 27301,
+                "stars": 27303,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13263,7 +13263,7 @@
                 "open_issues": 1,
                 "owner": "Igglybuff",
                 "repo": "awesome-piracy",
-                "stars": 26916,
+                "stars": 26918,
                 "topics": [
                   "audiobooks",
                   "awesome-list",
@@ -13294,7 +13294,7 @@
                 "open_issues": 16,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26309,
+                "stars": 26312,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13329,7 +13329,7 @@
                 "open_issues": 38,
                 "owner": "terryum",
                 "repo": "awesome-deep-learning-papers",
-                "stars": 26199,
+                "stars": 26198,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -13354,7 +13354,7 @@
                 "open_issues": 27,
                 "owner": "alexpate",
                 "repo": "awesome-design-systems",
-                "stars": 26054,
+                "stars": 26058,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13382,7 +13382,7 @@
                 "open_issues": 0,
                 "owner": "luong-komorebi",
                 "repo": "Awesome-Linux-Software",
-                "stars": 25617,
+                "stars": 25616,
                 "topics": [
                   "applications",
                   "awesome-list",
@@ -13481,11 +13481,11 @@
                 "id": 296142821,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-28T16:05:59Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-03T20:27:52Z",
+                "open_issues": 9,
                 "owner": "anderspitman",
                 "repo": "awesome-tunneling",
-                "stars": 21905,
+                "stars": 21907,
                 "topics": [
                   "nebula",
                   "ngrok",
@@ -13514,7 +13514,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-26T05:16:53Z",
-                "open_issues": 163,
+                "open_issues": 165,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
                 "stars": 21639,
@@ -13545,7 +13545,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21530,
+                "stars": 21532,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13568,10 +13568,10 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2026-02-27T03:26:22Z",
-                "open_issues": 217,
+                "open_issues": 218,
                 "owner": "thangchung",
                 "repo": "awesome-dotnet-core",
-                "stars": 21398,
+                "stars": 21397,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13596,10 +13596,10 @@
                 "language": "Shell",
                 "license": null,
                 "last_commit": "2026-09-30T08:16:23Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "agarrharr",
                 "repo": "awesome-cli-apps",
-                "stars": 20495,
+                "stars": 20496,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13626,7 +13626,7 @@
                 "open_issues": 616,
                 "owner": "pluja",
                 "repo": "awesome-privacy",
-                "stars": 19895,
+                "stars": 19898,
                 "topics": [
                   "alternatives",
                   "apps",
@@ -13657,7 +13657,7 @@
                 "open_issues": 148,
                 "owner": "RunaCapital",
                 "repo": "awesome-oss-alternatives",
-                "stars": 19730,
+                "stars": 19732,
                 "topics": [
                   "alternatives",
                   "awesome",
@@ -13686,10 +13686,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-23T18:27:23Z",
-                "open_issues": 207,
+                "open_issues": 210,
                 "owner": "iCHAIT",
                 "repo": "awesome-macOS",
-                "stars": 19284,
+                "stars": 19289,
                 "topics": [
                   "apple",
                   "awesome",
@@ -13718,7 +13718,7 @@
                 "open_issues": 27,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 19049,
+                "stars": 19052,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13748,7 +13748,7 @@
                 "open_issues": 6,
                 "owner": "unixorn",
                 "repo": "awesome-zsh-plugins",
-                "stars": 18044,
+                "stars": 18045,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13804,7 +13804,7 @@
                 "open_issues": 140,
                 "owner": "vitejs",
                 "repo": "awesome-vite",
-                "stars": 17261,
+                "stars": 17262,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13830,7 +13830,7 @@
                 "open_issues": 74,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17186,
+                "stars": 17190,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -13851,10 +13851,10 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T08:10:55Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "thibmaek",
                 "repo": "awesome-raspberry-pi",
-                "stars": 16945,
+                "stars": 16946,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13882,7 +13882,7 @@
                 "open_issues": 27,
                 "owner": "bharathgs",
                 "repo": "Awesome-pytorch-list",
-                "stars": 16688,
+                "stars": 16690,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13924,7 +13924,7 @@
                 "open_issues": 76,
                 "owner": "owainlewis",
                 "repo": "awesome-artificial-intelligence",
-                "stars": 16602,
+                "stars": 16609,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -13957,7 +13957,7 @@
                 "open_issues": 1,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16519,
+                "stars": 16526,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -13984,7 +13984,7 @@
                 "open_issues": 94,
                 "owner": "ramitsurana",
                 "repo": "awesome-kubernetes",
-                "stars": 16108,
+                "stars": 16109,
                 "topics": [
                   "aws",
                   "azure",
@@ -14021,10 +14021,10 @@
                 "language": "HTML",
                 "license": null,
                 "last_commit": "2026-07-21T15:01:30Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "terkelg",
                 "repo": "awesome-creative-coding",
-                "stars": 15390,
+                "stars": 15393,
                 "topics": [
                   "3d-graphics",
                   "art",
@@ -14094,7 +14094,7 @@
                 "open_issues": 2,
                 "owner": "chentsulin",
                 "repo": "awesome-graphql",
-                "stars": 15129,
+                "stars": 15131,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14117,10 +14117,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 350,
+                "open_issues": 349,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14930,
+                "stars": 14931,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -14144,7 +14144,7 @@
                 "open_issues": 10,
                 "owner": "taowen",
                 "repo": "awesome-lowcode",
-                "stars": 14734,
+                "stars": 14733,
                 "topics": [
                   "awesome",
                   "awsome",
@@ -14235,7 +14235,7 @@
                 "open_issues": 25,
                 "owner": "rshipp",
                 "repo": "awesome-malware-analysis",
-                "stars": 14237,
+                "stars": 14241,
                 "topics": [
                   "analysis-framework",
                   "automated-analysis",
@@ -14276,7 +14276,7 @@
                 "open_issues": 28,
                 "owner": "lnishan",
                 "repo": "awesome-competitive-programming",
-                "stars": 14206,
+                "stars": 14208,
                 "topics": [
                   "algorithm",
                   "awesome",
@@ -14307,10 +14307,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-03-12T09:29:54Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14165,
+                "stars": 14166,
                 "topics": [
                   "aws",
                   "aws-cli",
@@ -14352,7 +14352,7 @@
                 "open_issues": 9,
                 "owner": "markets",
                 "repo": "awesome-ruby",
-                "stars": 14164,
+                "stars": 14165,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14380,7 +14380,7 @@
                 "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13842,
+                "stars": 13846,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14409,7 +14409,7 @@
                 "open_issues": 113,
                 "owner": "dastergon",
                 "repo": "awesome-sre",
-                "stars": 13678,
+                "stars": 13689,
                 "topics": [
                   "alerting",
                   "availability",
@@ -14486,31 +14486,6 @@
             },
             {
               "node_type": "item",
-              "title": "awesome-laravel",
-              "description": "by @chiraggude",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
-                "homepage": null,
-                "id": 22417801,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-07-03T15:59:36Z",
-                "open_issues": 93,
-                "owner": "chiraggude",
-                "repo": "awesome-laravel",
-                "stars": 13111,
-                "topics": [
-                  "awesome",
-                  "laravel",
-                  "php"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
               "title": "awesome-podcasts",
               "description": "by @rShetty – Important Podcasts for software engineers.",
               "children": [],
@@ -14525,13 +14500,38 @@
                 "open_issues": 14,
                 "owner": "rShetty",
                 "repo": "awesome-podcasts",
-                "stars": 13110,
+                "stars": 13111,
                 "topics": [
                   "awesome",
                   "awesome-list",
                   "awesome-lists",
                   "podcast",
                   "software"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-laravel",
+              "description": "by @chiraggude",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
+                "homepage": null,
+                "id": 22417801,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-07-03T15:59:36Z",
+                "open_issues": 93,
+                "owner": "chiraggude",
+                "repo": "awesome-laravel",
+                "stars": 13110,
+                "topics": [
+                  "awesome",
+                  "laravel",
+                  "php"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -14552,7 +14552,7 @@
                 "open_issues": 7,
                 "owner": "humiaozuzu",
                 "repo": "awesome-flask",
-                "stars": 12784,
+                "stars": 12782,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14579,7 +14579,7 @@
                 "open_issues": 22,
                 "owner": "madd86",
                 "repo": "awesome-system-design",
-                "stars": 12600,
+                "stars": 12603,
                 "topics": [
                   "distributed-systems",
                   "hadoop-ecosystem",
@@ -14610,7 +14610,7 @@
                 "open_issues": 2,
                 "owner": "heynickc",
                 "repo": "awesome-ddd",
-                "stars": 12380,
+                "stars": 12381,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14632,10 +14632,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-10-27T08:14:07Z",
-                "open_issues": 100,
+                "open_issues": 101,
                 "owner": "JStumpp",
                 "repo": "awesome-android",
-                "stars": 12368,
+                "stars": 12370,
                 "topics": [
                   "android-development",
                   "android-library",
@@ -14664,7 +14664,7 @@
                 "open_issues": 32,
                 "owner": "xgrommx",
                 "repo": "awesome-redux",
-                "stars": 12287,
+                "stars": 12288,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14690,7 +14690,7 @@
                 "open_issues": 84,
                 "owner": "dhamaniasad",
                 "repo": "awesome-postgres",
-                "stars": 12103,
+                "stars": 12105,
                 "topics": [
                   "database",
                   "postgres",
@@ -14715,7 +14715,7 @@
                 "open_issues": 70,
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11881,
+                "stars": 11885,
                 "topics": [
                   "awesome",
                   "ctf",
@@ -14741,7 +14741,7 @@
                 "open_issues": 111,
                 "owner": "mezod",
                 "repo": "awesome-indie",
-                "stars": 11837,
+                "stars": 11839,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14769,7 +14769,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-24T17:18:28Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "mjhea0",
                 "repo": "awesome-fastapi",
                 "stars": 11702,
@@ -14798,7 +14798,7 @@
                 "open_issues": 53,
                 "owner": "mehdihadeli",
                 "repo": "awesome-software-architecture",
-                "stars": 11698,
+                "stars": 11699,
                 "topics": [
                   "architectural-patterns",
                   "architectural-styles",
@@ -14840,7 +14840,7 @@
                 "open_issues": 53,
                 "owner": "mehdihadeli",
                 "repo": "awesome-software-architecture",
-                "stars": 11698,
+                "stars": 11699,
                 "topics": [
                   "architectural-patterns",
                   "architectural-styles",
@@ -14882,7 +14882,7 @@
                 "open_issues": 106,
                 "owner": "oz123",
                 "repo": "awesome-c",
-                "stars": 11585,
+                "stars": 11588,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14908,7 +14908,7 @@
                 "open_issues": 24,
                 "owner": "Heapy",
                 "repo": "awesome-kotlin",
-                "stars": 11384,
+                "stars": 11385,
                 "topics": [
                   "hacktoberfest",
                   "kotlin",
@@ -14936,7 +14936,7 @@
                 "open_issues": 5,
                 "owner": "wsvincent",
                 "repo": "awesome-django",
-                "stars": 11268,
+                "stars": 11269,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -14958,10 +14958,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-01T08:36:55Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "edoardottt",
                 "repo": "awesome-hacker-search-engines",
-                "stars": 11237,
+                "stars": 11244,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15045,7 +15045,7 @@
                 "open_issues": 0,
                 "owner": "Kristories",
                 "repo": "awesome-guidelines",
-                "stars": 11148,
+                "stars": 11150,
                 "topics": [
                   "awesome",
                   "awesome-guidelines",
@@ -15073,10 +15073,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-22T07:49:57Z",
-                "open_issues": 289,
+                "open_issues": 292,
                 "owner": "unicodeveloper",
                 "repo": "awesome-nextjs",
-                "stars": 11105,
+                "stars": 11104,
                 "topics": [
                   "awesome-list",
                   "framework",
@@ -15136,7 +15136,7 @@
                 "open_issues": 4,
                 "owner": "webpro",
                 "repo": "awesome-dotfiles",
-                "stars": 10886,
+                "stars": 10887,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15195,7 +15195,7 @@
                 "open_issues": 30,
                 "owner": "paralax",
                 "repo": "awesome-honeypots",
-                "stars": 10579,
+                "stars": 10580,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15222,7 +15222,7 @@
                 "open_issues": 7,
                 "owner": "awesome-lists",
                 "repo": "awesome-bash",
-                "stars": 10118,
+                "stars": 10119,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15243,11 +15243,11 @@
                 "id": 41718185,
                 "language": "HTML",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T17:01:40Z",
+                "last_commit": "2026-10-03T16:00:19Z",
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "awesome-angular",
-                "stars": 10078,
+                "stars": 10079,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -15296,7 +15296,7 @@
                 "language": "Markdown",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-13T00:28:37Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "lk-geimfari",
                 "repo": "awesomo",
                 "stars": 9945,
@@ -15335,11 +15335,11 @@
                 "id": 512269935,
                 "language": "Astro",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T20:46:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T05:16:48Z",
+                "open_issues": 1,
                 "owner": "lissy93",
                 "repo": "awesome-privacy",
-                "stars": 9920,
+                "stars": 9922,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15367,7 +15367,7 @@
                 "open_issues": 107,
                 "owner": "mbasso",
                 "repo": "awesome-wasm",
-                "stars": 9648,
+                "stars": 9647,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15398,7 +15398,7 @@
                 "open_issues": 0,
                 "owner": "kyrolabs",
                 "repo": "awesome-langchain",
-                "stars": 9556,
+                "stars": 9557,
                 "topics": [
                   "ai",
                   "awesome",
@@ -15425,7 +15425,7 @@
                 "open_issues": 4,
                 "owner": "troxler",
                 "repo": "awesome-css-frameworks",
-                "stars": 9539,
+                "stars": 9538,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15452,10 +15452,10 @@
                 "language": "CSS",
                 "license": "CC0-1.0",
                 "last_commit": "2024-04-06T05:47:06Z",
-                "open_issues": 62,
+                "open_issues": 61,
                 "owner": "kmaasrud",
                 "repo": "awesome-obsidian",
-                "stars": 9433,
+                "stars": 9435,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15480,7 +15480,7 @@
                 "open_issues": 88,
                 "owner": "meirwah",
                 "repo": "awesome-incident-response",
-                "stars": 9427,
+                "stars": 9431,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15510,7 +15510,7 @@
                 "open_issues": 34,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9388,
+                "stars": 9386,
                 "topics": [
                   "awesome-list",
                   "emacs"
@@ -15534,7 +15534,7 @@
                 "open_issues": 90,
                 "owner": "AdrienTorris",
                 "repo": "awesome-blazor",
-                "stars": 9376,
+                "stars": 9378,
                 "topics": [
                   "asp-net-core",
                   "aspnetcore",
@@ -15600,10 +15600,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-07T13:29:54Z",
-                "open_issues": 41,
+                "open_issues": 43,
                 "owner": "igorbarinov",
                 "repo": "awesome-data-engineering",
-                "stars": 9136,
+                "stars": 9137,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -15624,7 +15624,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-07-28T02:18:16Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "davidsonfellipe",
                 "repo": "awesome-wpo",
                 "stars": 9104,
@@ -15655,7 +15655,7 @@
                 "open_issues": 28,
                 "owner": "frenck",
                 "repo": "awesome-home-assistant",
-                "stars": 8497,
+                "stars": 8500,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15692,7 +15692,7 @@
                 "open_issues": 28,
                 "owner": "grpc-ecosystem",
                 "repo": "awesome-grpc",
-                "stars": 8355,
+                "stars": 8356,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15755,7 +15755,7 @@
                 "open_issues": 40,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8180,
+                "stars": 8185,
                 "topics": [
                   "altium",
                   "awesome",
@@ -15785,7 +15785,7 @@
                 "open_issues": 13,
                 "owner": "lorien",
                 "repo": "awesome-web-scraping",
-                "stars": 8167,
+                "stars": 8168,
                 "topics": [
                   "captcha-bypass",
                   "captcha-recaptcha",
@@ -15846,7 +15846,7 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T10:34:17Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "meirwah",
                 "repo": "awesome-workflow-engines",
                 "stars": 7941,
@@ -15870,7 +15870,7 @@
                 "open_issues": 3,
                 "owner": "JoseDeFreitas",
                 "repo": "awesome-youtubers",
-                "stars": 7845,
+                "stars": 7846,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15897,7 +15897,7 @@
                 "open_issues": 17,
                 "owner": "reHackable",
                 "repo": "awesome-reMarkable",
-                "stars": 7730,
+                "stars": 7735,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -15968,10 +15968,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-22T14:37:39Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "agmmnn",
                 "repo": "awesome-blender",
-                "stars": 7380,
+                "stars": 7383,
                 "topics": [
                   "3d",
                   "3d-models",
@@ -16000,7 +16000,7 @@
                 "open_issues": 4,
                 "owner": "liuchong",
                 "repo": "awesome-roadmaps",
-                "stars": 7376,
+                "stars": 7378,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16050,7 +16050,7 @@
                 "open_issues": 43,
                 "owner": "kiloreux",
                 "repo": "awesome-robotics",
-                "stars": 7213,
+                "stars": 7214,
                 "topics": [
                   "robotics"
                 ]
@@ -16070,10 +16070,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-11-28T16:02:39Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "atinfo",
                 "repo": "awesome-test-automation",
-                "stars": 7167,
+                "stars": 7168,
                 "topics": [
                   "android",
                   "awesome",
@@ -16115,7 +16115,7 @@
                 "open_issues": 26,
                 "owner": "ChromeDevTools",
                 "repo": "awesome-chrome-devtools",
-                "stars": 7154,
+                "stars": 7155,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -16139,7 +16139,7 @@
                 "open_issues": 75,
                 "owner": "sobolevn",
                 "repo": "awesome-cryptography",
-                "stars": 7137,
+                "stars": 7138,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16167,7 +16167,7 @@
                 "open_issues": 23,
                 "owner": "RyanNielson",
                 "repo": "awesome-unity",
-                "stars": 7099,
+                "stars": 7098,
                 "topics": [
                   "awesome-list",
                   "game-development",
@@ -16192,7 +16192,7 @@
                 "open_issues": 43,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7076,
+                "stars": 7078,
                 "topics": [
                   "application-security",
                   "curated",
@@ -16220,7 +16220,7 @@
                 "open_issues": 16,
                 "owner": "likedan",
                 "repo": "Awesome-CoreML-Models",
-                "stars": 7058,
+                "stars": 7057,
                 "topics": [
                   "apple",
                   "awesome",
@@ -16282,8 +16282,8 @@
                 "id": 58478671,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-28T07:32:38Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-03T08:48:25Z",
+                "open_issues": 14,
                 "owner": "shuaibiyy",
                 "repo": "awesome-tf",
                 "stars": 6608,
@@ -16316,7 +16316,7 @@
                 "open_issues": 28,
                 "owner": "chubin",
                 "repo": "awesome-console-services",
-                "stars": 6536,
+                "stars": 6537,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16343,7 +16343,7 @@
                 "open_issues": 28,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6516,
+                "stars": 6514,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16393,7 +16393,7 @@
                 "open_issues": 30,
                 "owner": "JanVanRyswyck",
                 "repo": "awesome-talks",
-                "stars": 6200,
+                "stars": 6199,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -16527,10 +16527,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-21T12:24:17Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "ebertti",
                 "repo": "awesome-telegram",
-                "stars": 5883,
+                "stars": 5889,
                 "topics": [
                   "awesome-list",
                   "telegram"
@@ -16554,7 +16554,7 @@
                 "open_issues": 36,
                 "owner": "diimdeep",
                 "repo": "awesome-split-keyboards",
-                "stars": 5880,
+                "stars": 5881,
                 "topics": [
                   "ergonomic-keyboard",
                   "hardware",
@@ -16581,7 +16581,7 @@
                 "open_issues": 10,
                 "owner": "micromata",
                 "repo": "awesome-javascript-learning",
-                "stars": 5859,
+                "stars": 5860,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16656,7 +16656,7 @@
                 "open_issues": 33,
                 "owner": "lauragift21",
                 "repo": "awesome-learning-resources",
-                "stars": 5771,
+                "stars": 5772,
                 "topics": [
                   "ai",
                   "awesome-list",
@@ -16710,7 +16710,7 @@
                 "open_issues": 30,
                 "owner": "awesome-css-group",
                 "repo": "awesome-css",
-                "stars": 5641,
+                "stars": 5640,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16733,7 +16733,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-07-15T08:05:27Z",
-                "open_issues": 85,
+                "open_issues": 83,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
                 "stars": 5590,
@@ -16745,6 +16745,35 @@
                   "defensive-security",
                   "infosec",
                   "security"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-nuxt",
+              "description": "Resources for Nuxt.js, framework for universal Vue.js applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome things related to Nuxt.js",
+                "homepage": null,
+                "id": 80724464,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-09-15T21:53:32Z",
+                "open_issues": 30,
+                "owner": "nuxt",
+                "repo": "awesome",
+                "stars": 5534,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "nuxt",
+                  "nuxtjs",
+                  "tutorial",
+                  "vue",
+                  "welcome-pr"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -16772,35 +16801,6 @@
             },
             {
               "node_type": "item",
-              "title": "awesome-nuxt",
-              "description": "Resources for Nuxt.js, framework for universal Vue.js applications.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome things related to Nuxt.js",
-                "homepage": null,
-                "id": 80724464,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-09-15T21:53:32Z",
-                "open_issues": 30,
-                "owner": "nuxt",
-                "repo": "awesome",
-                "stars": 5533,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "nuxt",
-                  "nuxtjs",
-                  "tutorial",
-                  "vue",
-                  "welcome-pr"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
               "title": "awesome-nix",
               "description": "Nix, the purely functional package manager.",
               "children": [],
@@ -16815,7 +16815,7 @@
                 "open_issues": 25,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5475,
+                "stars": 5478,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16873,7 +16873,7 @@
                 "open_issues": 14,
                 "owner": "janikvonrotz",
                 "repo": "awesome-powershell",
-                "stars": 5405,
+                "stars": 5406,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -16905,7 +16905,7 @@
                 "open_issues": 5,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5321,
+                "stars": 5320,
                 "topics": [
                   "charts",
                   "d3js",
@@ -16928,11 +16928,11 @@
                 "id": 133976221,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-05-21T15:18:32Z",
+                "last_commit": "2026-10-03T22:23:45Z",
                 "open_issues": 201,
                 "owner": "mgramin",
                 "repo": "awesome-db-tools",
-                "stars": 5320,
+                "stars": 5319,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -17043,7 +17043,7 @@
                 "open_issues": 83,
                 "owner": "joho",
                 "repo": "awesome-code-review",
-                "stars": 5156,
+                "stars": 5155,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -17069,7 +17069,7 @@
                 "open_issues": 20,
                 "owner": "timofurrer",
                 "repo": "awesome-asyncio",
-                "stars": 5135,
+                "stars": 5136,
                 "topics": [
                   "asyncio",
                   "awesome",
@@ -17098,7 +17098,7 @@
                 "open_issues": 3,
                 "owner": "dzharii",
                 "repo": "awesome-typescript",
-                "stars": 5114,
+                "stars": 5113,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -17116,10 +17116,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-25T05:07:30Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "jorgebucaran",
                 "repo": "awsm.fish",
-                "stars": 5087,
+                "stars": 5088,
                 "topics": [
                   "awesome",
                   "fish",
@@ -17144,7 +17144,7 @@
                 "open_issues": 18,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5083,
+                "stars": 5084,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -17162,10 +17162,10 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-08-10T05:18:51Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "hemanth",
                 "repo": "awesome-pwa",
-                "stars": 4931,
+                "stars": 4932,
                 "topics": [
                   "awesome-list",
                   "modern-web",
@@ -17291,7 +17291,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4681,
+                "stars": 4684,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -17474,12 +17474,12 @@
                 "homepage": "https://gbdev.io/resources",
                 "id": 52347647,
                 "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T23:30:37Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-03T20:27:22Z",
                 "open_issues": 25,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4520,
+                "stars": 4521,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -17517,10 +17517,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-30T15:27:01Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "HQarroum",
                 "repo": "awesome-iot",
-                "stars": 4519,
+                "stars": 4518,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -17546,7 +17546,7 @@
                 "language": "PowerShell",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-26T21:02:34Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
                 "stars": 4512,
@@ -17630,7 +17630,7 @@
                 "open_issues": 46,
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": [
                   "awesome-list",
                   "chart",
@@ -17683,7 +17683,7 @@
                 "open_issues": 14,
                 "owner": "HuaizhengZhang",
                 "repo": "AI-Infra-from-Zero-to-Hero",
-                "stars": 4408,
+                "stars": 4410,
                 "topics": [
                   "ai-infra",
                   "genai",
@@ -17841,7 +17841,7 @@
                 "open_issues": 0,
                 "owner": "PaulSec",
                 "repo": "awesome-sec-talks",
-                "stars": 4237,
+                "stars": 4238,
                 "topics": [
                   "conferences",
                   "hacking",
@@ -17995,7 +17995,7 @@
                 "open_issues": 13,
                 "owner": "stackshareio",
                 "repo": "awesome-stacks",
-                "stars": 3934,
+                "stars": 3933,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -18260,7 +18260,7 @@
                 "open_issues": 15,
                 "owner": "denji",
                 "repo": "awesome-http-benchmark",
-                "stars": 3775,
+                "stars": 3776,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -18443,7 +18443,7 @@
                 "open_issues": 26,
                 "owner": "mhxion",
                 "repo": "awesome-discord-communities",
-                "stars": 3611,
+                "stars": 3612,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -18473,7 +18473,7 @@
                 "open_issues": 22,
                 "owner": "krzjoa",
                 "repo": "awesome-python-data-science",
-                "stars": 3606,
+                "stars": 3607,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -18506,7 +18506,7 @@
                 "open_issues": 16,
                 "owner": "pawl",
                 "repo": "awesome-etl",
-                "stars": 3594,
+                "stars": 3593,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -18528,10 +18528,10 @@
                 "language": "Emacs Lisp",
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-07T03:30:15Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "qjcg",
                 "repo": "awesome-typst",
-                "stars": 3590,
+                "stars": 3593,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -18579,11 +18579,11 @@
                 "id": 60018432,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T18:33:04Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T21:04:55Z",
+                "open_issues": 7,
                 "owner": "awesome-scripts",
                 "repo": "awesome-userscripts",
-                "stars": 3541,
+                "stars": 3544,
                 "topics": [
                   "ad-blocking",
                   "awesome",
@@ -18681,7 +18681,7 @@
                 "open_issues": 15,
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3429,
+                "stars": 3428,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -18699,10 +18699,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-25T08:32:52Z",
-                "open_issues": 182,
+                "open_issues": 184,
                 "owner": "aviaryan",
                 "repo": "awesome-no-login-web-apps",
-                "stars": 3376,
+                "stars": 3377,
                 "topics": [
                   "application",
                   "applications",
@@ -18714,6 +18714,32 @@
                   "no-login-web-apps",
                   "portableapps",
                   "web-app"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-productivity",
+              "description": "Delightful productivity resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of delightful productivity resources.",
+                "homepage": null,
+                "id": 38704617,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2024-08-14T18:07:32Z",
+                "open_issues": 206,
+                "owner": "jyguyomarch",
+                "repo": "awesome-productivity",
+                "stars": 3362,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "productivity"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -18736,32 +18762,6 @@
                 "repo": "awesome-devenv",
                 "stars": 3360,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-productivity",
-              "description": "Delightful productivity resources.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of delightful productivity resources.",
-                "homepage": null,
-                "id": 38704617,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2024-08-14T18:07:32Z",
-                "open_issues": 206,
-                "owner": "jyguyomarch",
-                "repo": "awesome-productivity",
-                "stars": 3360,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "list",
-                  "productivity"
-                ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
             },
@@ -18866,7 +18866,7 @@
                 "open_issues": 26,
                 "owner": "gunnarmorling",
                 "repo": "awesome-opensource-data-engineering",
-                "stars": 3299,
+                "stars": 3298,
                 "topics": [
                   "awesome-list",
                   "data-engineering"
@@ -19152,7 +19152,7 @@
                 "open_issues": 38,
                 "owner": "jkup",
                 "repo": "awesome-personal-blogs",
-                "stars": 3125,
+                "stars": 3124,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -19173,7 +19173,7 @@
                 "open_issues": 5,
                 "owner": "ocaml-community",
                 "repo": "awesome-ocaml",
-                "stars": 3122,
+                "stars": 3123,
                 "topics": [
                   "awesome",
                   "ocaml",
@@ -19195,11 +19195,11 @@
                 "id": 22615356,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-18T10:25:42Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-03T08:03:13Z",
+                "open_issues": 26,
                 "owner": "ahkscript",
                 "repo": "awesome-AutoHotkey",
-                "stars": 3090,
+                "stars": 3092,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -19252,7 +19252,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-08T08:36:57Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "dahlia",
                 "repo": "awesome-sqlalchemy",
                 "stars": 3064,
@@ -19281,7 +19281,7 @@
                 "id": 28163761,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-02T21:55:55Z",
+                "last_commit": "2026-10-03T20:42:50Z",
                 "open_issues": 7,
                 "owner": "manuzhang",
                 "repo": "awesome-streaming",
@@ -19311,7 +19311,7 @@
                 "open_issues": 116,
                 "owner": "jupyter-naas",
                 "repo": "awesome-notebooks",
-                "stars": 3016,
+                "stars": 3015,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -19397,7 +19397,7 @@
                 "open_issues": 17,
                 "owner": "watson",
                 "repo": "awesome-computer-history",
-                "stars": 2963,
+                "stars": 2964,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -19424,10 +19424,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-07T07:00:27Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "dictcp",
                 "repo": "awesome-git",
-                "stars": 2949,
+                "stars": 2948,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -19483,7 +19483,7 @@
                 "open_issues": 4,
                 "owner": "logseq",
                 "repo": "awesome-logseq",
-                "stars": 2917,
+                "stars": 2919,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -19610,7 +19610,7 @@
                 "open_issues": 51,
                 "owner": "moul",
                 "repo": "awesome-ssh",
-                "stars": 2847,
+                "stars": 2849,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -19801,7 +19801,7 @@
                 "open_issues": 52,
                 "owner": "jonathandion",
                 "repo": "awesome-emails",
-                "stars": 2751,
+                "stars": 2752,
                 "topics": [
                   "awesome",
                   "email",
@@ -19875,7 +19875,7 @@
                 "open_issues": 17,
                 "owner": "ttt30ga",
                 "repo": "awesome-product-design",
-                "stars": 2730,
+                "stars": 2731,
                 "topics": [
                   "article",
                   "awesome",
@@ -19911,7 +19911,7 @@
                 "open_issues": 17,
                 "owner": "ttt30ga",
                 "repo": "awesome-product-design",
-                "stars": 2730,
+                "stars": 2731,
                 "topics": [
                   "article",
                   "awesome",
@@ -19947,7 +19947,7 @@
                 "open_issues": 11,
                 "owner": "ramnes",
                 "repo": "awesome-mongodb",
-                "stars": 2676,
+                "stars": 2675,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -20072,7 +20072,7 @@
                 "open_issues": 20,
                 "owner": "shlomi-noach",
                 "repo": "awesome-mysql",
-                "stars": 2614,
+                "stars": 2615,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -20254,7 +20254,7 @@
                 "open_issues": 47,
                 "owner": "noteflakes",
                 "repo": "awesome-music",
-                "stars": 2507,
+                "stars": 2508,
                 "topics": [
                   "audio",
                   "awesome",
@@ -20284,10 +20284,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-30T14:28:54Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "davidgasquez",
                 "repo": "awesome-duckdb",
-                "stars": 2504,
+                "stars": 2505,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -20335,7 +20335,7 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T00:59:48Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "akuity",
                 "repo": "awesome-argo",
                 "stars": 2495,
@@ -20494,7 +20494,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-02T13:40:07Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "aolofsson",
                 "repo": "awesome-opensource-hardware",
                 "stars": 2438,
@@ -20561,8 +20561,8 @@
                 "id": 44929620,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-25T09:23:02Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T09:22:08Z",
+                "open_issues": 0,
                 "owner": "awesome-mqtt",
                 "repo": "awesome-mqtt",
                 "stars": 2401,
@@ -20590,10 +20590,10 @@
                 "language": "CSS",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-07T22:44:09Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "dend",
                 "repo": "awesome-product-management",
-                "stars": 2390,
+                "stars": 2391,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -20617,7 +20617,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T22:12:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2380,
@@ -20645,7 +20645,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-26T21:03:38Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "KrishMunot",
                 "repo": "awesome-startup",
                 "stars": 2360,
@@ -20689,34 +20689,8 @@
                 "open_issues": 12,
                 "owner": "44bits",
                 "repo": "awesome-opensource-documents",
-                "stars": 2336,
+                "stars": 2338,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-htmx",
-              "description": "htmx JavaScript library for building hypermedia-driven applications.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Awesome things about htmx",
-                "homepage": null,
-                "id": 345000191,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2025-06-06T03:57:52Z",
-                "open_issues": 9,
-                "owner": "rajasegar",
-                "repo": "awesome-htmx",
-                "stars": 2319,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "hacktoberfest",
-                  "htmx"
-                ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
             },
@@ -20748,6 +20722,32 @@
                   "testing",
                   "tla",
                   "verification"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-htmx",
+              "description": "htmx JavaScript library for building hypermedia-driven applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Awesome things about htmx",
+                "homepage": null,
+                "id": 345000191,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2025-06-06T03:57:52Z",
+                "open_issues": 9,
+                "owner": "rajasegar",
+                "repo": "awesome-htmx",
+                "stars": 2317,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "hacktoberfest",
+                  "htmx"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -20891,7 +20891,7 @@
                 "open_issues": 1,
                 "owner": "ucg8j",
                 "repo": "awesome-dash",
-                "stars": 2272,
+                "stars": 2271,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -21279,7 +21279,7 @@
                 "open_issues": 3,
                 "owner": "vlang",
                 "repo": "awesome-v",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -21301,10 +21301,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2024-04-09T19:01:27Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "Friz-zy",
                 "repo": "awesome-linux-containers",
-                "stars": 2103,
+                "stars": 2102,
                 "topics": [
                   "awesome",
                   "best-practices",
@@ -21358,7 +21358,7 @@
                 "open_issues": 7,
                 "owner": "innovation-cat",
                 "repo": "Awesome-Federated-Machine-Learning",
-                "stars": 2096,
+                "stars": 2097,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -21386,7 +21386,7 @@
                 "language": "Pascal",
                 "license": "CC0-1.0",
                 "last_commit": "2026-02-27T16:04:57Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "Fr0sT-Brutal",
                 "repo": "awesome-pascal",
                 "stars": 2088,
@@ -21415,7 +21415,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-26T05:01:07Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "brabadu",
                 "repo": "awesome-fonts",
                 "stars": 2075,
@@ -21466,10 +21466,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-03T22:10:04Z",
-                "open_issues": 88,
+                "open_issues": 87,
                 "owner": "brunopulis",
                 "repo": "awesome-a11y",
-                "stars": 1991,
+                "stars": 1990,
                 "topics": [
                   "a11y",
                   "accessibility",
@@ -21673,7 +21673,7 @@
                 "open_issues": 21,
                 "owner": "brycejohnston",
                 "repo": "awesome-agriculture",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "agricultural",
                   "agriculture",
@@ -21704,10 +21704,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-29T12:55:40Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "tramcar",
                 "repo": "awesome-job-boards",
-                "stars": 1874,
+                "stars": 1873,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -21915,6 +21915,32 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-developer-first",
+              "description": "Developer-first products.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome developer-first tools products.",
+                "homepage": null,
+                "id": 298852257,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-01T14:15:49Z",
+                "open_issues": 3,
+                "owner": "agamm",
+                "repo": "awesome-developer-first",
+                "stars": 1837,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "developer-first",
+                  "developer-tools"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-fraud-detection-papers",
               "description": "Fraud detection research papers.",
               "children": [],
@@ -21951,32 +21977,6 @@
                   "link-prediction",
                   "logistic-regression",
                   "random-forest"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-developer-first",
-              "description": "Developer-first products.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome developer-first tools products.",
-                "homepage": null,
-                "id": 298852257,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-01T14:15:49Z",
-                "open_issues": 3,
-                "owner": "agamm",
-                "repo": "awesome-developer-first",
-                "stars": 1834,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "developer-first",
-                  "developer-tools"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -22268,7 +22268,7 @@
                 "open_issues": 8,
                 "owner": "wbinnssmith",
                 "repo": "awesome-promises",
-                "stars": 1760,
+                "stars": 1761,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -22289,7 +22289,7 @@
                 "open_issues": 14,
                 "owner": "antontarasenko",
                 "repo": "awesome-economics",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": [
                   "american-economic-association",
                   "awesome",
@@ -22346,7 +22346,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-24T09:55:59Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "analyticalmonk",
                 "repo": "awesome-neuroscience",
                 "stars": 1728,
@@ -22384,7 +22384,7 @@
                 "open_issues": 4,
                 "owner": "anubhavsrivastava",
                 "repo": "awesome-ui-component-library",
-                "stars": 1724,
+                "stars": 1725,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -22426,7 +22426,7 @@
                 "open_issues": 34,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1717,
+                "stars": 1718,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -22556,7 +22556,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-08T07:42:44Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "egeerardyn",
                 "repo": "awesome-LaTeX",
                 "stars": 1672,
@@ -22657,7 +22657,7 @@
                 "open_issues": 9,
                 "owner": "sdnds-tw",
                 "repo": "awesome-sdn",
-                "stars": 1644,
+                "stars": 1643,
                 "topics": [
                   "hacktoberfest",
                   "network-virtualization",
@@ -22794,7 +22794,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-27T05:02:26Z",
-                "open_issues": 108,
+                "open_issues": 107,
                 "owner": "kaushikb11",
                 "repo": "awesome-llm-agents",
                 "stars": 1598,
@@ -22898,7 +22898,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-19T12:25:07Z",
-                "open_issues": 124,
+                "open_issues": 126,
                 "owner": "burningtree",
                 "repo": "awesome-json",
                 "stars": 1571,
@@ -23069,7 +23069,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-24T20:07:50Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "Jolg42",
                 "repo": "awesome-typography",
                 "stars": 1540,
@@ -23212,7 +23212,7 @@
                 "open_issues": 2,
                 "owner": "mdibaiee",
                 "repo": "awesome-lite-websites",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -23636,7 +23636,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-17T09:12:20Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "automata",
                 "repo": "awesome-jamstack",
                 "stars": 1370,
@@ -23689,7 +23689,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-29T19:08:10Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "igorbarinov",
                 "repo": "awesome-bitcoin",
                 "stars": 1356,
@@ -23755,7 +23755,7 @@
                 "open_issues": 14,
                 "owner": "PyHAT-stack",
                 "repo": "awesome-python-htmx",
-                "stars": 1337,
+                "stars": 1336,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -23949,7 +23949,7 @@
                 "open_issues": 9,
                 "owner": "rafaskb",
                 "repo": "awesome-libgdx",
-                "stars": 1277,
+                "stars": 1278,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -23974,7 +23974,7 @@
                 "open_issues": 12,
                 "owner": "opencompany",
                 "repo": "awesome-open-company",
-                "stars": 1276,
+                "stars": 1277,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -24147,7 +24147,7 @@
                 "open_issues": 15,
                 "owner": "glauberfc",
                 "repo": "awesome-react-hooks",
-                "stars": 1227,
+                "stars": 1226,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -24231,7 +24231,7 @@
                 "open_issues": 4,
                 "owner": "HollyAdele",
                 "repo": "awesome-programming-for-kids",
-                "stars": 1216,
+                "stars": 1217,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -24258,7 +24258,7 @@
                 "open_issues": 1,
                 "owner": "bcoe",
                 "repo": "awesome-cross-platform-nodejs",
-                "stars": 1210,
+                "stars": 1209,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -24299,7 +24299,7 @@
                 "id": 65635555,
                 "language": "CSS",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T22:43:29Z",
+                "last_commit": "2026-10-03T16:45:36Z",
                 "open_issues": 6,
                 "owner": "carlosperate",
                 "repo": "awesome-microbit",
@@ -24416,6 +24416,31 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-educational-games",
+              "description": "Educational games to learn editors, languages, programming",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome educational games to learn editors, languages, programming, etc",
+                "homepage": "https://yrgo.se/webbutvecklare",
+                "id": 66341161,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2024-04-08T06:32:51Z",
+                "open_issues": 15,
+                "owner": "yrgo",
+                "repo": "awesome-educational-games",
+                "stars": 1185,
+                "topics": [
+                  "awesome",
+                  "education",
+                  "games"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-dashboard",
               "description": "Dashboards/visualization resources.",
               "children": [],
@@ -24435,31 +24460,6 @@
                   "awesome",
                   "awesome-list",
                   "dashboard"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-educational-games",
-              "description": "Educational games to learn editors, languages, programming",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome educational games to learn editors, languages, programming, etc",
-                "homepage": "https://yrgo.se/webbutvecklare",
-                "id": 66341161,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2024-04-08T06:32:51Z",
-                "open_issues": 15,
-                "owner": "yrgo",
-                "repo": "awesome-educational-games",
-                "stars": 1184,
-                "topics": [
-                  "awesome",
-                  "education",
-                  "games"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -24512,7 +24512,7 @@
                 "open_issues": 2,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1176,
+                "stars": 1177,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -24562,10 +24562,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-02-06T19:23:10Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "steven2358",
                 "repo": "awesome-blockchain-ai",
-                "stars": 1159,
+                "stars": 1158,
                 "topics": [
                   "artificial-intelligence",
                   "awesome",
@@ -24643,7 +24643,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-19T22:48:23Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "christian-bromann",
                 "repo": "awesome-selenium",
                 "stars": 1131,
@@ -24826,6 +24826,37 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-job-boards",
+              "description": "by @emredurukn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome job boards",
+                "homepage": null,
+                "id": 187814936,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-03T15:46:04Z",
+                "open_issues": 0,
+                "owner": "emredurukn",
+                "repo": "awesome-job-boards",
+                "stars": 1070,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "career",
+                  "job-board",
+                  "job-search",
+                  "remote",
+                  "remote-jobs",
+                  "startup-jobs",
+                  "tech-jobs"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-digital-nomads",
               "description": "Resources for Digital Nomads.",
               "children": [],
@@ -24840,7 +24871,7 @@
                 "open_issues": 65,
                 "owner": "cbovis",
                 "repo": "awesome-digital-nomads",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -24848,37 +24879,6 @@
                   "digital-nomads",
                   "nomad",
                   "remote-work"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-job-boards",
-              "description": "by @emredurukn",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome job boards",
-                "homepage": null,
-                "id": 187814936,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2026-10-02T11:56:04Z",
-                "open_issues": 0,
-                "owner": "emredurukn",
-                "repo": "awesome-job-boards",
-                "stars": 1068,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "career",
-                  "job-board",
-                  "job-search",
-                  "remote",
-                  "remote-jobs",
-                  "startup-jobs",
-                  "tech-jobs"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -24941,7 +24941,7 @@
                 "open_issues": 10,
                 "owner": "hundredrabbits",
                 "repo": "awesome-uxn",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": [
                   "awesome-list",
                   "uxn"
@@ -24965,7 +24965,7 @@
                 "open_issues": 10,
                 "owner": "ad-si",
                 "repo": "awesome-sheet-music",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": [
                   "optical-music-recognition",
                   "sheet-music",
@@ -25176,7 +25176,7 @@
                 "open_issues": 0,
                 "owner": "cpuu",
                 "repo": "awesome-fuzzing",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -25494,7 +25494,7 @@
                 "language": "PowerShell",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-11T02:43:51Z",
-                "open_issues": 33,
+                "open_issues": 38,
                 "owner": "secretGeek",
                 "repo": "AwesomeCSV",
                 "stars": 953,
@@ -25640,6 +25640,36 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-oss-monetization",
+              "description": "Monetization approaches for open-source software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🏆 A curated list of monetization approaches for open-source software. Feedback welcome!",
+                "homepage": "https://paydevs.github.io/awesome-oss-monetization/",
+                "id": 479972041,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2025-03-27T07:10:34Z",
+                "open_issues": 5,
+                "owner": "PayDevs",
+                "repo": "awesome-oss-monetization",
+                "stars": 925,
+                "topics": [
+                  "approaches",
+                  "awesome",
+                  "awesome-list",
+                  "libraries",
+                  "monetization",
+                  "monetize",
+                  "open-source",
+                  "oss"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-AutoIt",
               "description": "UDFs, example scripts, tools and useful resources for AutoIt.",
               "children": [],
@@ -25664,36 +25694,6 @@
                   "programming-language",
                   "scripting-language",
                   "udf"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-oss-monetization",
-              "description": "Monetization approaches for open-source software.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🏆 A curated list of monetization approaches for open-source software. Feedback welcome!",
-                "homepage": "https://paydevs.github.io/awesome-oss-monetization/",
-                "id": 479972041,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2025-03-27T07:10:34Z",
-                "open_issues": 5,
-                "owner": "PayDevs",
-                "repo": "awesome-oss-monetization",
-                "stars": 924,
-                "topics": [
-                  "approaches",
-                  "awesome",
-                  "awesome-list",
-                  "libraries",
-                  "monetization",
-                  "monetize",
-                  "open-source",
-                  "oss"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -25932,7 +25932,7 @@
                 "open_issues": 21,
                 "owner": "imbaniac",
                 "repo": "awesome-blockchain",
-                "stars": 890,
+                "stars": 891,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -25962,7 +25962,7 @@
                 "open_issues": 34,
                 "owner": "hsiaoyi0504",
                 "repo": "awesome-cheminformatics",
-                "stars": 887,
+                "stars": 888,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -26631,7 +26631,7 @@
                 "language": "D",
                 "license": null,
                 "last_commit": "2026-09-20T16:09:29Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "dlang-community",
                 "repo": "awesome-d",
                 "stars": 763,
@@ -26825,6 +26825,36 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-circuitpython",
+              "description": "CircuitPython microcontrollers programming language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.",
+                "homepage": "https://www.circuitpython.org",
+                "id": 127556293,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-07-21T21:15:02Z",
+                "open_issues": 2,
+                "owner": "adafruit",
+                "repo": "awesome-circuitpython",
+                "stars": 742,
+                "topics": [
+                  "adafruit",
+                  "awesome",
+                  "awesome-list",
+                  "circuitpython",
+                  "embedded",
+                  "iot",
+                  "micropython",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-groovy",
               "description": "kdabir/awesome-groovy",
               "children": [],
@@ -26872,36 +26902,6 @@
                   "list",
                   "npm",
                   "task-runner"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-circuitpython",
-              "description": "CircuitPython microcontrollers programming language",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.",
-                "homepage": "https://www.circuitpython.org",
-                "id": 127556293,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-07-21T21:15:02Z",
-                "open_issues": 2,
-                "owner": "adafruit",
-                "repo": "awesome-circuitpython",
-                "stars": 741,
-                "topics": [
-                  "adafruit",
-                  "awesome",
-                  "awesome-list",
-                  "circuitpython",
-                  "embedded",
-                  "iot",
-                  "micropython",
-                  "python"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -27177,7 +27177,7 @@
                 "open_issues": 3,
                 "owner": "machinomy",
                 "repo": "awesome-non-financial-blockchain",
-                "stars": 672,
+                "stars": 671,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -27357,7 +27357,7 @@
                 "open_issues": 1,
                 "owner": "sachin1092",
                 "repo": "awesome-material",
-                "stars": 659,
+                "stars": 658,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -28056,7 +28056,7 @@
                 "open_issues": 13,
                 "owner": "klaudiosinani",
                 "repo": "awesome-prolog",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "awesome",
                   "list",
@@ -28189,8 +28189,8 @@
                 "id": 388887753,
                 "language": "Markdown",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-01T05:08:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T17:53:27Z",
+                "open_issues": 1,
                 "owner": "stn1slv",
                 "repo": "awesome-integration",
                 "stars": 565,
@@ -28252,7 +28252,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-03-21T10:13:45Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "alexk111",
                 "repo": "awesome-bitcoin-payment-processors",
                 "stars": 562,
@@ -28353,8 +28353,8 @@
                 "id": 22354748,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-30T01:54:45Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-03T19:04:38Z",
+                "open_issues": 6,
                 "owner": "fffaraz",
                 "repo": "awesome-github",
                 "stars": 543,
@@ -28423,7 +28423,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-27T22:11:36Z",
-                "open_issues": 62,
+                "open_issues": 64,
                 "owner": "moimikey",
                 "repo": "awesome-devtools",
                 "stars": 539,
@@ -28488,7 +28488,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:41:34Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "bekatom",
                 "repo": "awesome-growth-hacking",
                 "stars": 536,
@@ -29062,8 +29062,8 @@
                 "id": 149477023,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-27T06:52:20Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-03T16:14:30Z",
+                "open_issues": 9,
                 "owner": "ScaleLeap",
                 "repo": "awesome-amazon-seller",
                 "stars": 439,
@@ -29481,7 +29481,7 @@
                 "open_issues": 12,
                 "owner": "planetopendata",
                 "repo": "awesome-sqlite",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "database",
                   "sql",
@@ -29690,7 +29690,7 @@
                 "open_issues": 5,
                 "owner": "brillout",
                 "repo": "awesome-redux",
-                "stars": 393,
+                "stars": 392,
                 "topics": [
                   "devarchy",
                   "redux"
@@ -29899,6 +29899,33 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-arm-exploitation",
+              "description": "ARM processors security and exploitation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of awesome videos, articles, books and resources about ARM exploitation.",
+                "homepage": null,
+                "id": 194529710,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-01-04T19:53:37Z",
+                "open_issues": 2,
+                "owner": "HenryHoggard",
+                "repo": "awesome-arm-exploitation",
+                "stars": 368,
+                "topics": [
+                  "arm",
+                  "awesome",
+                  "awesome-list",
+                  "exploitation",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-clojure",
               "description": "by @mbuczko – Useful links for clojurians",
               "children": [],
@@ -29918,33 +29945,6 @@
                   "article",
                   "clojure",
                   "clojurescript"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-arm-exploitation",
-              "description": "ARM processors security and exploitation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of awesome videos, articles, books and resources about ARM exploitation.",
-                "homepage": null,
-                "id": 194529710,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-01-04T19:53:37Z",
-                "open_issues": 2,
-                "owner": "HenryHoggard",
-                "repo": "awesome-arm-exploitation",
-                "stars": 367,
-                "topics": [
-                  "arm",
-                  "awesome",
-                  "awesome-list",
-                  "exploitation",
-                  "security"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -30133,7 +30133,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-07-31T05:52:46Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "hugo53",
                 "repo": "awesome-ProductManager",
                 "stars": 343,
@@ -30793,7 +30793,7 @@
                 "open_issues": 2,
                 "owner": "expede",
                 "repo": "awesome-relay",
-                "stars": 291,
+                "stars": 290,
                 "topics": [
                   "facebook-relay",
                   "graphql",
@@ -30845,7 +30845,7 @@
                 "open_issues": 11,
                 "owner": "ScarletPan",
                 "repo": "awesome-autonomous-gpt",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "agi",
                   "autogpt",
@@ -30950,7 +30950,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-03-21T02:21:43Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "xxczaki",
                 "repo": "awesome-calculators",
                 "stars": 269,
@@ -32249,8 +32249,8 @@
                 "id": 404698785,
                 "language": "Handlebars",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-28T00:42:13Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-03T08:04:50Z",
+                "open_issues": 15,
                 "owner": "sourcemeta",
                 "repo": "awesome-jsonschema",
                 "stars": 169,
@@ -32378,7 +32378,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-02T19:45:42Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "xyNNN",
                 "repo": "awesome-mac",
                 "stars": 162,
@@ -33296,7 +33296,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-19T14:31:10Z",
-                "open_issues": 34,
+                "open_issues": 39,
                 "owner": "Scottcjn",
                 "repo": "awesome-agents",
                 "stars": 105,
@@ -33644,6 +33644,27 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-datasets",
+              "description": "Datasets for papers/experiments/validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome datasets for papers/experiments/validation.",
+                "homepage": null,
+                "id": 22467895,
+                "language": null,
+                "license": null,
+                "last_commit": "2016-10-13T10:46:00Z",
+                "open_issues": 1,
+                "owner": "viisar",
+                "repo": "awesome-datasets",
+                "stars": 97,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-drupal",
               "description": "by @nirgn975 – Useful resources for Drupal CMS :droplet:",
               "children": [],
@@ -33751,27 +33772,6 @@
                   "platform-game",
                   "tutorial"
                 ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-datasets",
-              "description": "Datasets for papers/experiments/validation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome datasets for papers/experiments/validation.",
-                "homepage": null,
-                "id": 22467895,
-                "language": null,
-                "license": null,
-                "last_commit": "2016-10-13T10:46:00Z",
-                "open_issues": 1,
-                "owner": "viisar",
-                "repo": "awesome-datasets",
-                "stars": 96,
-                "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
             },
@@ -34670,6 +34670,27 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-kr-foss",
+              "description": "Korean open source projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome Korean open source projects",
+                "homepage": null,
+                "id": 45088920,
+                "language": null,
+                "license": "Artistic-2.0",
+                "last_commit": "2026-03-02T08:49:26Z",
+                "open_issues": 0,
+                "owner": "darjeeling",
+                "repo": "awesome-kr-foss",
+                "stars": 63,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-solid",
               "description": "Solid (social linked data) project.",
               "children": [],
@@ -34722,27 +34743,6 @@
                   "opensource",
                   "star"
                 ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-kr-foss",
-              "description": "Korean open source projects.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome Korean open source projects",
-                "homepage": null,
-                "id": 45088920,
-                "language": null,
-                "license": "Artistic-2.0",
-                "last_commit": "2026-03-02T08:49:26Z",
-                "open_issues": 0,
-                "owner": "darjeeling",
-                "repo": "awesome-kr-foss",
-                "stars": 62,
-                "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
             },
@@ -34904,6 +34904,30 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-educate",
+              "description": "Education resources online.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "😎 A curated list of awesome education resources online",
+                "homepage": null,
+                "id": 24184916,
+                "language": null,
+                "license": null,
+                "last_commit": "2022-11-04T09:05:08Z",
+                "open_issues": 6,
+                "owner": "mercer",
+                "repo": "awesome-educate",
+                "stars": 51,
+                "topics": [
+                  "curator",
+                  "education"
+                ]
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-jitsi",
               "description": "Jitsi open-source video conferencing.",
               "children": [],
@@ -34930,30 +34954,6 @@
                   "jitsi-meet",
                   "jitsi-meet-installation",
                   "videoconferencing"
-                ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-educate",
-              "description": "Education resources online.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "😎 A curated list of awesome education resources online",
-                "homepage": null,
-                "id": 24184916,
-                "language": null,
-                "license": null,
-                "last_commit": "2022-11-04T09:05:08Z",
-                "open_issues": 5,
-                "owner": "mercer",
-                "repo": "awesome-educate",
-                "stars": 50,
-                "topics": [
-                  "curator",
-                  "education"
                 ]
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
@@ -35281,6 +35281,27 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-osc",
+              "description": "Open Sound Control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of useful open-sound-control applications, libraries, resources and shiny things",
+                "homepage": null,
+                "id": 108233897,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2025-12-01T21:46:24Z",
+                "open_issues": 0,
+                "owner": "amir-arad",
+                "repo": "awesome-osc",
+                "stars": 38,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T05:36:13.916Z"
+            },
+            {
+              "node_type": "item",
               "title": "awesome-css-only",
               "description": "Beautiful projects made with pure CSS.",
               "children": [],
@@ -35335,27 +35356,6 @@
                   "mobile-development",
                   "mobile-game"
                 ]
-              },
-              "first_seen": "2026-08-28T05:36:13.916Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-osc",
-              "description": "Open Sound Control",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of useful open-sound-control applications, libraries, resources and shiny things",
-                "homepage": null,
-                "id": 108233897,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2025-12-01T21:46:24Z",
-                "open_issues": 0,
-                "owner": "amir-arad",
-                "repo": "awesome-osc",
-                "stars": 37,
-                "topics": []
               },
               "first_seen": "2026-08-28T05:36:13.916Z"
             },
@@ -37122,10 +37122,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513797,
+            "stars": 514162,
             "topics": [
               "awesome",
               "awesome-list",
@@ -37152,7 +37152,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121733,
+            "stars": 121795,
             "topics": [
               "android",
               "awesome",
@@ -37183,7 +37183,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33696,
+            "stars": 33695,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -37204,7 +37204,7 @@
             "open_issues": 29,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3218,
+            "stars": 3219,
             "topics": [
               "awesome",
               "awesome-list"
@@ -37350,7 +37350,7 @@
             "open_issues": 3,
             "owner": "szabgab",
             "repo": "awesome-lists",
-            "stars": 483,
+            "stars": 485,
             "topics": [
               "awesome",
               "awesome-list",
@@ -37397,7 +37397,7 @@
             "open_issues": 3,
             "owner": "erichs",
             "repo": "awesome-awesome",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T05:36:13.916Z"
@@ -37564,7 +37564,7 @@
             "open_issues": 9,
             "owner": "0ex",
             "repo": "more-awesome",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "awesome",
               "awesome-list",
@@ -37870,7 +37870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:36.530Z",
+    "last_updated": "2026-10-04T00:01:10.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
@@ -37882,7 +37882,7 @@
       "open_issues": 32,
       "owner": "jnv",
       "repo": "lists",
-      "stars": 11520,
+      "stars": 11522,
       "topics": [
         "awesome",
         "awesome-list",
